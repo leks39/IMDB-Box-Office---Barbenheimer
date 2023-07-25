@@ -1,0 +1,1005 @@
+Movie_Title,First_Week_Sales,Total_Ticket_Sales,First_Week_Pct,No_of_Cinemas,Distributor,Distributor_Category,Opening_Date,Opening_Year,Opening_Month_Name,Opening_Month,Opening_Day
+Avengers: Endgame,357115007,858373000,41.6,4662,Walt Disney,Major Studio,4/26/2019,2019,April,4,Friday
+Spider-Man: No Way Home,260138569,804793477,32.3,4336,Sony Pictures,Major Studio,12/17/2021,2021,December,12,Friday
+Avengers: Infinity War,257698183,678815482,38,4474,Walt Disney,Major Studio,4/27/2018,2018,April,4,Friday
+Star Wars: Episode VII - The Force Awakens,247966675,936662225,26.5,4134,Walt Disney,Major Studio,12/18/2015,2015,December,12,Friday
+Star Wars: Episode VIII - The Last Jedi,220009584,620181382,35.5,4232,Walt Disney,Major Studio,12/15/2017,2017,December,12,Friday
+Jurassic World,208806270,652270625,32,4274,Universal Pictures,Major Studio,6/12/2015,2015,June,6,Friday
+The Avengers,207438708,623357910,33.3,4349,Walt Disney,Major Studio,5/4/2012,2012,May,5,Friday
+Black Panther,202003951,700059566,28.9,4020,Walt Disney,Major Studio,2/16/2018,2018,February,2,Friday
+The Lion King,191770759,543638043,35.3,4725,Walt Disney,Major Studio,7/19/2019,2019,July,7,Friday
+Avengers: Age of Ultron,191271109,459005868,41.7,4276,Walt Disney,Major Studio,5/1/2015,2015,May,5,Friday
+Doctor Strange in the Multiverse of Madness,187420998,411331607,45.6,4534,Walt Disney,Major Studio,5/6/2022,2022,May,5,Friday
+Incredibles 2,182687905,608581744,30,4410,Walt Disney,Major Studio,6/15/2018,2018,June,6,Friday
+Black Panther: Wakanda Forever,181339761,453829060,40,4396,Walt Disney,Major Studio,11/11/2022,2022,November,11,Friday
+Captain America: Civil War,179139142,408084349,43.9,4226,Walt Disney,Major Studio,5/6/2016,2016,May,5,Friday
+Star Wars: Episode IX - The Rise of Skywalker,177383864,515202542,34.4,4406,Walt Disney,Major Studio,12/20/2019,2019,December,12,Friday
+Beauty and the Beast,174750616,504014165,34.7,4210,Walt Disney,Major Studio,3/17/2017,2017,March,3,Friday
+Iron Man 3,174144585,409013994,42.6,4253,Walt Disney,Major Studio,5/3/2013,2013,May,5,Friday
+Harry Potter and the Deathly Hallows: Part 2,169189427,381011219,44.4,4375,Warner Bros.,Major Studio,7/15/2011,2011,July,7,Friday
+Batman v Superman: Dawn of Justice,166007347,330360194,50.2,4242,Warner Bros.,Major Studio,3/25/2016,2016,March,3,Friday
+The Dark Knight Rises,160887295,448139099,35.9,4404,Warner Bros.,Major Studio,7/20/2012,2012,July,7,Friday
+The Dark Knight,158411483,533345358,29.7,4366,Warner Bros.,Major Studio,7/18/2008,2008,July,7,Friday
+The Hunger Games: Catching Fire,158074286,424668047,37.2,4163,Lionsgate,Others,11/22/2013,2013,November,11,Friday
+Rogue One: A Star Wars Story,155081681,532177324,29.1,4157,Walt Disney,Major Studio,12/16/2016,2016,December,12,Friday
+Barbie,155000000,155000000,100,4243,Warner Bros.,Major Studio,7/21/2023,2023,July,7,Friday
+Captain Marvel,153433423,426829839,36,4310,Walt Disney,Major Studio,3/8/2019,2019,March,3,Friday
+The Hunger Games,152535747,408010692,37.4,4137,Lionsgate,Others,3/23/2012,2012,March,3,Friday
+Spider-Man 3,151116516,336530303,44.9,4252,Sony Pictures,Major Studio,5/4/2007,2007,May,5,Friday
+Jurassic World: Fallen Kingdom,148024610,417719760,35.4,4475,Universal Pictures,Major Studio,6/22/2018,2018,June,6,Friday
+Furious 7,147187040,353007020,41.7,4004,Universal Pictures,Major Studio,4/3/2015,2015,April,4,Friday
+Guardians of the Galaxy Vol. 2,146510104,389813101,37.6,4347,Walt Disney,Major Studio,5/5/2017,2017,May,5,Friday
+The Super Mario Bros. Movie,146361865,574044955,25.5,4343,Universal Pictures,Major Studio,4/5/2023,2023,April,4,Wednesday
+Jurassic World Dominion,145075625,376851080,38.5,4676,Universal Pictures,Major Studio,6/10/2022,2022,June,6,Friday
+Thor: Love and Thunder,144165107,343256830,42,4375,Walt Disney,Major Studio,7/8/2022,2022,July,7,Friday
+The Twilight Saga: New Moon,142839137,296623634,48.2,4024,Lionsgate,Others,11/20/2009,2009,November,11,Friday
+The Twilight Saga: Breaking Dawn - Part 2,141067634,292324737,48.3,4070,Lionsgate,Others,11/16/2012,2012,November,11,Friday
+The Twilight Saga: Breaking Dawn - Part 1,138122261,281287133,49.1,4061,Lionsgate,Others,11/18/2011,2011,November,11,Friday
+Pirates of the Caribbean: Dead Man's Chest,135634554,423315812,32,4133,Walt Disney,Major Studio,7/7/2006,2006,July,7,Friday
+Finding Dory,135060273,486295561,27.8,4305,Walt Disney,Major Studio,6/17/2016,2016,June,6,Friday
+Avatar: The Way of Water,134100226,684075767,19.6,4202,Walt Disney,Major Studio,12/16/2022,2022,December,12,Friday
+The Batman,134008624,369345583,36.3,4417,Warner Bros.,Major Studio,3/4/2022,2022,March,3,Friday
+Suicide Squad,133682248,325100054,41.1,4255,Warner Bros.,Major Studio,8/5/2016,2016,August,8,Friday
+Deadpool,132434639,363070709,36.5,3558,Walt Disney,Major Studio,2/12/2016,2016,February,2,Friday
+Frozen II,130263358,477373578,27.3,4440,Walt Disney,Major Studio,11/22/2019,2019,November,11,Friday
+Iron Man 2,128122480,312433331,41,4380,Paramount Pictures,Major Studio,5/7/2010,2010,May,5,Friday
+Top Gun: Maverick,126707459,718732821,17.6,4735,Paramount Pictures,Major Studio,5/27/2022,2022,May,5,Friday
+Deadpool 2,125507153,318491426,39.4,4349,Walt Disney,Major Studio,5/18/2018,2018,May,5,Friday
+Harry Potter and the Deathly Hallows: Part 1,125017372,295983305,42.2,4125,Warner Bros.,Major Studio,11/19/2010,2010,November,11,Friday
+It,123403419,327481748,37.7,4103,Warner Bros.,Major Studio,9/8/2017,2017,September,9,Friday
+Thor: Ragnarok,122744989,315058289,39,4080,Walt Disney,Major Studio,11/3/2017,2017,November,11,Friday
+The Hunger Games: Mockingjay - Part 1,121897634,337135885,36.2,4151,Lionsgate,Others,11/21/2014,2014,November,11,Friday
+Shrek the Third,121629270,322719944,37.7,4122,DreamWorks,Others,5/18/2007,2007,May,5,Friday
+Toy Story 4,120908065,434038008,27.9,4575,Walt Disney,Major Studio,6/21/2019,2019,June,6,Friday
+Spider-Man: Across the Spider-Verse,120663589,375209269,32.2,4313,Sony Pictures,Major Studio,6/2/2023,2023,June,6,Friday
+Guardians of the Galaxy Vol. 3,118414021,356577614,33.2,4450,Walt Disney,Major Studio,5/5/2023,2023,May,5,Friday
+Spider-Man: Homecoming,117027503,334201140,35,4348,Sony Pictures,Major Studio,7/7/2017,2017,July,7,Friday
+Man of Steel,116619362,291045518,40.1,4207,Warner Bros.,Major Studio,6/14/2013,2013,June,6,Friday
+Alice in Wonderland,116101023,334191110,34.7,3728,Walt Disney,Major Studio,3/5/2010,2010,March,3,Friday
+Minions,115718405,336045770,34.4,4301,Universal Pictures,Major Studio,7/10/2015,2015,July,7,Friday
+Spider-Man,114844116,403706375,28.4,3615,Sony Pictures,Major Studio,5/3/2002,2002,May,5,Friday
+Pirates of the Caribbean: At World's End,114732820,309420425,37.1,4362,Walt Disney,Major Studio,5/25/2007,2007,May,5,Friday
+Toy Story 3,110307189,415004880,26.6,4028,Walt Disney,Major Studio,6/18/2010,2010,June,6,Friday
+Transformers: Revenge of the Fallen,108966307,402111870,27.1,4234,DreamWorks,Others,6/24/2009,2009,June,6,Wednesday
+Star Wars: Episode III - Revenge of the Sith,108435841,380270577,28.5,3661,Walt Disney,Major Studio,5/19/2005,2005,May,5,Thursday
+Shrek 2,108037878,441226247,24.5,4163,DreamWorks,Others,5/19/2004,2004,May,5,Wednesday
+Minions: The Rise of Gru,107010140,369695210,29,4391,Universal Pictures,Major Studio,7/1/2022,2022,July,7,Friday
+Ant-Man and the Wasp: Quantumania,106109650,214504909,49.5,4345,Walt Disney,Major Studio,2/17/2023,2023,February,2,Friday
+The Secret Life of Pets,104352905,368384330,28.3,4370,Universal Pictures,Major Studio,7/8/2016,2016,July,7,Friday
+The Jungle Book,103261464,364001123,28.4,4028,Walt Disney,Major Studio,4/15/2016,2016,April,4,Friday
+Wonder Woman,103251471,412563408,25,4165,Warner Bros.,Major Studio,6/2/2017,2017,June,6,Friday
+X-Men: The Last Stand,102750665,234362462,43.8,3690,Walt Disney,Major Studio,5/26/2006,2006,May,5,Friday
+Harry Potter and the Goblet of Fire,102685961,290013036,35.4,3858,Warner Bros.,Major Studio,11/18/2005,2005,November,11,Friday
+The Hunger Games: Mockingjay - Part 2,102665981,281723902,36.4,4175,Lionsgate,Others,11/20/2015,2015,November,11,Friday
+Indiana Jones and the Kingdom of the Crystal Skull,100137835,317101119,31.6,4260,Paramount Pictures,Major Studio,5/22/2008,2008,May,5,Thursday
+Transformers: Age of Extinction,100038390,245439076,40.8,4233,Paramount Pictures,Major Studio,6/27/2014,2014,June,6,Friday
+The Fate of the Furious,98786705,226008385,43.7,4310,Universal Pictures,Major Studio,4/14/2017,2017,April,4,Friday
+Iron Man,98618668,318604126,31,4105,Paramount Pictures,Major Studio,5/2/2008,2008,May,5,Friday
+Transformers: Dark of the Moon,97852865,352390543,27.8,4088,DreamWorks,Others,6/29/2011,2011,June,6,Wednesday
+Fast & Furious 6,97375245,238679850,40.8,3658,Universal Pictures,Major Studio,5/24/2013,2013,May,5,Friday
+Joker,96202337,335451311,28.7,4374,Warner Bros.,Major Studio,10/4/2019,2019,October,10,Friday
+The Little Mermaid,95578040,285538945,33.5,4320,Walt Disney,Major Studio,5/26/2023,2023,May,5,Friday
+Captain America: The Winter Soldier,95023721,259766572,36.6,3938,Walt Disney,Major Studio,4/4/2014,2014,April,4,Friday
+Guardians of the Galaxy,94320883,333176600,28.3,4080,Walt Disney,Major Studio,8/1/2014,2014,August,8,Friday
+Justice League,93842239,229024295,41,4051,Warner Bros.,Major Studio,11/17/2017,2017,November,11,Friday
+Harry Potter and the Prisoner of Azkaban,93687367,249541069,37.5,3855,Warner Bros.,Major Studio,6/4/2004,2004,June,6,Friday
+Godzilla,93188384,200676069,46.4,3952,Warner Bros.,Major Studio,5/16/2014,2014,May,5,Friday
+Spider-Man: Far from Home,92579212,390532085,23.7,4634,Sony Pictures,Major Studio,7/2/2019,2019,July,7,Tuesday
+The Matrix Reloaded,91774413,281576461,32.6,3603,Warner Bros.,Major Studio,5/15/2003,2003,May,5,Thursday
+The Amazing Spider-Man 2,91608337,202853933,45.2,4324,Sony Pictures,Major Studio,5/2/2014,2014,May,5,Friday
+Aladdin,91500929,355559216,25.7,4476,Walt Disney,Major Studio,5/24/2019,2019,May,5,Friday
+It Chapter Two,91062152,211593228,43,4570,Warner Bros.,Major Studio,9/6/2019,2019,September,9,Friday
+X-Men: Days of Future Past,90823660,233921534,38.8,3996,Walt Disney,Major Studio,5/23/2014,2014,May,5,Friday
+Inside Out,90440272,356461711,25.4,3946,Walt Disney,Major Studio,6/19/2015,2015,June,6,Friday
+Harry Potter and the Sorcerer's Stone,90294621,317575550,28.4,3672,Warner Bros.,Major Studio,11/16/2001,2001,November,11,Friday
+Pirates of the Caribbean: On Stranger Tides,90151958,241071802,37.4,4155,Walt Disney,Major Studio,5/20/2011,2011,May,5,Friday
+Venom: Let There Be Carnage,90033210,213550366,42.2,4225,Sony Pictures,Major Studio,10/1/2021,2021,October,10,Friday
+Logan,88411916,226277068,39.1,4071,Walt Disney,Major Studio,3/3/2017,2017,March,3,Friday
+Skyfall,88364714,304360277,29,3505,Sony Pictures,Major Studio,11/9/2012,2012,November,11,Friday
+Harry Potter and the Chamber of Secrets,88357488,261988482,33.7,3682,Warner Bros.,Major Studio,11/15/2002,2002,November,11,Friday
+Spider-Man 2,88156227,373585825,23.6,4152,Sony Pictures,Major Studio,6/30/2004,2004,June,6,Wednesday
+Fast Five,86198765,209837675,41.1,3644,Universal Pictures,Major Studio,4/29/2011,2011,April,4,Friday
+The Hangover Part II,85946294,254464305,33.8,3615,Warner Bros.,Major Studio,5/26/2011,2011,May,5,Thursday
+Thor: The Dark World,85737841,206362140,41.6,3841,Walt Disney,Major Studio,11/8/2013,2013,November,11,Friday
+X2: X-Men United,85558731,214949694,39.8,3741,Walt Disney,Major Studio,5/2/2003,2003,May,5,Friday
+Fifty Shades of Grey,85171450,166167230,51.3,3646,Universal Pictures,Major Studio,2/13/2015,2015,February,2,Friday
+Doctor Strange,85058311,232641920,36.6,3882,Walt Disney,Major Studio,11/4/2016,2016,November,11,Friday
+X-Men Origins: Wolverine,85058003,179883157,47.3,4099,Walt Disney,Major Studio,5/1/2009,2009,May,5,Friday
+The Hobbit: An Unexpected Journey,84617303,303003568,27.9,4045,Warner Bros.,Major Studio,12/14/2012,2012,December,12,Friday
+Solo: A Star Wars Story,84420489,213767512,39.5,4381,Walt Disney,Major Studio,5/25/2018,2018,May,5,Friday
+The Passion of the Christ,83848082,370274604,22.6,3043,Newmarket Films,Others,2/25/2004,2004,February,2,Wednesday
+Despicable Me 2,83517315,368065385,22.7,3997,Universal Pictures,Major Studio,7/3/2013,2013,July,7,Wednesday
+Monsters University,82429469,268492764,30.7,4004,Walt Disney,Major Studio,6/21/2013,2013,June,6,Friday
+Oppenheimer,80500000,80500000,100,3610,Universal Pictures,Major Studio,7/21/2023,2023,July,7,Friday
+Black Widow,80366312,183651655,43.8,4160,Walt Disney,Major Studio,7/9/2021,2021,July,7,Friday
+Venom,80255756,213515506,37.6,4250,Sony Pictures,Major Studio,10/5/2018,2018,October,10,Friday
+Star Wars: Episode II - Attack of the Clones,80027814,302191252,26.5,3161,Walt Disney,Major Studio,5/16/2002,2002,May,5,Thursday
+Oz the Great and Powerful,79110453,234911825,33.7,3912,Walt Disney,Major Studio,3/8/2013,2013,March,3,Friday
+Harry Potter and the Half-Blood Prince,77835727,301959197,25.8,4325,Warner Bros.,Major Studio,7/15/2009,2009,July,7,Wednesday
+I Am Legend,77211321,256393010,30.1,3606,Warner Bros.,Major Studio,12/14/2007,2007,December,12,Friday
+Harry Potter and the Order of the Phoenix,77108414,292004738,26.4,4285,Warner Bros.,Major Studio,7/11/2007,2007,July,7,Wednesday
+The Da Vinci Code,77073388,217536138,35.4,3735,Sony Pictures,Major Studio,5/19/2006,2006,May,5,Friday
+Avatar,77025481,749766139,10.3,3452,Walt Disney,Major Studio,12/18/2009,2009,December,12,Friday
+Halloween,76221545,159342015,47.8,3928,Universal Pictures,Major Studio,10/19/2018,2018,October,10,Friday
+Ant-Man and the Wasp,75812205,216648740,35,4206,Walt Disney,Major Studio,7/6/2018,2018,July,7,Friday
+Shang-Chi and the Legend of the Ten Rings,75388688,224543292,33.6,4300,Walt Disney,Major Studio,9/3/2021,2021,September,9,Friday
+Star Trek,75204289,257730019,29.2,3849,Paramount Pictures,Major Studio,5/8/2009,2009,May,5,Friday
+Zootopia,75063401,341268248,22,3827,Walt Disney,Major Studio,3/4/2016,2016,March,3,Friday
+Fantastic Beasts and Where to Find Them,74403387,234037575,31.8,4144,Warner Bros.,Major Studio,11/18/2016,2016,November,11,Friday
+The Simpsons Movie,74036787,183135014,40.4,3922,Walt Disney,Major Studio,7/27/2007,2007,July,7,Friday
+John Wick: Chapter 4,73817950,187131806,39.4,3855,Lionsgate,Others,3/24/2023,2023,March,3,Friday
+The Hobbit: The Desolation of Smaug,73645197,258366855,28.5,3903,Warner Bros.,Major Studio,12/13/2013,2013,December,12,Friday
+Austin Powers in Goldmember,73071188,213307889,34.3,3613,Warner Bros.,Major Studio,7/26/2002,2002,July,7,Friday
+The Lord of the Rings: The Return of the King,72629713,377027325,19.3,3703,Warner Bros.,Major Studio,12/17/2003,2003,December,12,Wednesday
+Dawn of the Planet of the Apes,72611427,208545589,34.8,3967,Walt Disney,Major Studio,7/11/2014,2014,July,7,Friday
+Despicable Me 3,72434025,264624300,27.4,4529,Universal Pictures,Major Studio,6/30/2017,2017,June,6,Friday
+The Lost World: Jurassic Park,72132785,229086679,31.5,3281,Universal Pictures,Major Studio,5/23/1997,1997,May,5,Friday
+Sonic the Hedgehog 2,72105176,190872904,37.8,4234,Paramount Pictures,Major Studio,4/8/2022,2022,April,4,Friday
+Eternals,71297219,164870234,43.2,4090,Walt Disney,Major Studio,11/5/2021,2021,November,11,Friday
+Us,71117625,175084580,40.6,3741,Universal Pictures,Major Studio,3/22/2019,2019,March,3,Friday
+Fast & Furious,70950500,155064265,45.8,3461,Universal Pictures,Major Studio,4/3/2009,2009,April,4,Friday
+300,70885301,210614939,33.7,3103,Warner Bros.,Major Studio,3/9/2007,2007,March,3,Friday
+Shrek Forever After,70838207,238736787,29.7,4359,DreamWorks,Others,5/21/2010,2010,May,5,Friday
+Transformers,70502384,319246193,22.1,4011,DreamWorks,Others,7/3/2007,2007,July,7,Tuesday
+The Incredibles,70467623,261441092,27,3933,Walt Disney,Major Studio,11/5/2004,2004,November,11,Friday
+Spectre,70403148,200074609,35.2,3929,Sony Pictures,Major Studio,11/6/2015,2015,November,11,Friday
+Finding Nemo,70251710,339714978,20.7,3374,Walt Disney,Major Studio,5/30/2003,2003,May,5,Friday
+The Lorax,70217070,214030500,32.8,3729,Universal Pictures,Major Studio,3/2/2012,2012,March,3,Friday
+Star Trek Into Darkness,70165559,228778661,30.7,3868,Paramount Pictures,Major Studio,5/16/2013,2013,May,5,Thursday
+F9: The Fast Saga,70043165,173005945,40.5,4179,Universal Pictures,Major Studio,6/25/2021,2021,June,6,Friday
+Twilight,69637740,192769854,36.1,3419,Lionsgate,Others,11/21/2008,2008,November,11,Friday
+Maleficent,69431298,241410378,28.8,3948,Walt Disney,Major Studio,5/30/2014,2014,May,5,Friday
+The Bourne Ultimatum,69283690,227471070,30.5,3660,Universal Pictures,Major Studio,8/3/2007,2007,August,8,Friday
+Pitch Perfect 2,69216890,184296230,37.6,3473,Universal Pictures,Major Studio,5/15/2015,2015,May,5,Friday
+The Lego Movie,69050279,257760692,26.8,3775,Warner Bros.,Major Studio,2/7/2014,2014,February,2,Friday
+The Day After Tomorrow,68743584,186740799,36.8,3425,Walt Disney,Major Studio,5/28/2004,2004,May,5,Friday
+Planet of the Apes,68532960,180011740,38.1,3500,Walt Disney,Major Studio,7/27/2001,2001,July,7,Friday
+The Mummy Returns,68139035,202019785,33.7,3401,Universal Pictures,Major Studio,5/4/2001,2001,May,5,Friday
+Up,68108790,293004164,23.2,3766,Walt Disney,Major Studio,5/29/2009,2009,May,5,Friday
+Ice Age: The Meltdown,68033544,195330621,34.8,3964,Walt Disney,Major Studio,3/31/2006,2006,March,3,Friday
+Bruce Almighty,67953330,242829261,28,3483,Universal Pictures,Major Studio,5/23/2003,2003,May,5,Friday
+Cinderella,67877361,201151353,33.7,3845,Walt Disney,Major Studio,3/13/2015,2015,March,3,Friday
+Aquaman,67873522,335061807,20.3,4125,Warner Bros.,Major Studio,12/21/2018,2018,December,12,Friday
+The Grinch,67572855,270620950,25,4141,Universal Pictures,Major Studio,11/9/2018,2018,November,11,Friday
+Quantum of Solace,67528882,168368427,40.1,3451,Sony Pictures,Major Studio,11/14/2008,2008,November,11,Friday
+Rush Hour 2,67408222,226164286,29.8,3118,Warner Bros.,Major Studio,8/3/2001,2001,August,8,Friday
+Fast X,67017410,145960660,45.9,4046,Universal Pictures,Major Studio,5/19/2023,2023,May,5,Friday
+Black Adam,67004323,168152111,39.8,4402,Warner Bros.,Major Studio,10/21/2022,2022,October,10,Friday
+World War Z,66411834,202359711,32.8,3607,Paramount Pictures,Major Studio,6/21/2013,2013,June,6,Friday
+Brave,66323594,237283207,28,4164,Walt Disney,Major Studio,6/22/2012,2012,June,6,Friday
+Cars 2,66135507,191452396,34.5,4115,Walt Disney,Major Studio,6/24/2011,2011,June,6,Friday
+X-Men: Apocalypse,65769562,155442489,42.3,4150,Walt Disney,Major Studio,5/27/2016,2016,May,5,Friday
+Thor,65723338,181030624,36.3,3955,Paramount Pictures,Major Studio,5/6/2011,2011,May,5,Friday
+Teenage Mutant Ninja Turtles,65575105,191204754,34.3,3845,Paramount Pictures,Major Studio,8/8/2014,2014,August,8,Friday
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",65556312,291710957,22.5,3616,Walt Disney,Major Studio,12/9/2005,2005,December,12,Friday
+2012,65237614,166112167,39.3,3404,Sony Pictures,Major Studio,11/13/2009,2009,November,11,Friday
+Captain America: The First Avenger,65058524,176654505,36.8,3715,Paramount Pictures,Major Studio,7/22/2011,2011,July,7,Friday
+War of the Worlds,64878725,234280354,27.7,3908,Paramount Pictures,Major Studio,6/29/2005,2005,June,6,Wednesday
+The Twilight Saga: Eclipse,64832191,300531751,21.6,4468,Lionsgate,Others,6/30/2010,2010,June,6,Wednesday
+Star Wars: Episode I - The Phantom Menace,64820970,431088295,15,2970,Walt Disney,Major Studio,5/19/1999,1999,May,5,Wednesday
+Madagascar: Escape 2 Africa,63106589,180010950,35.1,4056,DreamWorks,Others,11/7/2008,2008,November,11,Friday
+WALL·E,63087526,223808164,28.2,3992,Walt Disney,Major Studio,6/27/2008,2008,June,6,Friday
+Pirates of the Caribbean: Dead Men Tell No Tales,62983253,172558876,36.5,4276,Walt Disney,Major Studio,5/26/2017,2017,May,5,Friday
+Inception,62785337,292576195,21.5,3792,Warner Bros.,Major Studio,7/16/2010,2010,July,7,Friday
+Hancock,62603879,227946274,27.5,3965,Sony Pictures,Major Studio,7/2/2008,2008,July,7,Wednesday
+"Monsters, Inc.",62577067,255873250,24.5,3237,Walt Disney,Major Studio,11/2/2001,2001,November,11,Friday
+Bad Boys for Life,62504105,206305244,30.3,3775,Sony Pictures,Major Studio,1/17/2020,2020,January,1,Friday
+Sherlock Holmes,62304277,209028679,29.8,3626,Warner Bros.,Major Studio,12/25/2009,2009,December,12,Friday
+Fantastic Beasts: The Crimes of Grindelwald,62163104,159555901,39,4163,Warner Bros.,Major Studio,11/16/2018,2018,November,11,Friday
+Hulk,62128420,132177234,47,3660,Universal Pictures,Major Studio,6/20/2003,2003,June,6,Friday
+The Lord of the Rings: The Two Towers,62007528,339789881,18.2,3622,Warner Bros.,Major Studio,12/18/2002,2002,December,12,Wednesday
+The Amazing Spider-Man,62004688,262030663,23.7,4318,Sony Pictures,Major Studio,7/3/2012,2012,July,7,Tuesday
+Mission: Impossible - Fallout,61236534,220159104,27.8,4386,Paramount Pictures,Major Studio,7/27/2018,2018,July,7,Friday
+Clash of the Titans,61235105,163214888,37.5,3777,Warner Bros.,Major Studio,4/2/2010,2010,April,4,Friday
+Transformers: Rise of the Beasts,61045464,155642604,39.2,3678,Paramount Pictures,Major Studio,6/9/2023,2023,June,6,Friday
+Kong: Skull Island,61025472,168052812,36.3,3846,Warner Bros.,Major Studio,3/10/2017,2017,March,3,Friday
+Indiana Jones and the Dial of Destiny,60368101,159018862,38,4600,Walt Disney,Major Studio,6/30/2023,2023,June,6,Friday
+Madagascar 3: Europe's Most Wanted,60316738,216391482,27.9,4258,DreamWorks,Others,6/8/2012,2012,June,6,Friday
+Kung Fu Panda,60239130,215434591,28,4114,DreamWorks,Others,6/6/2008,2008,June,6,Friday
+Straight Outta Compton,60200180,161197785,37.4,2757,Universal Pictures,Major Studio,8/14/2015,2015,August,8,Friday
+Cars,60119509,244082982,24.6,3985,Walt Disney,Major Studio,6/9/2006,2006,June,6,Friday
+Signs,60117080,227966634,26.4,3264,Walt Disney,Major Studio,8/2/2002,2002,August,8,Friday
+Fast & Furious Presents: Hobbs & Shaw,60038950,173956935,34.5,4253,Universal Pictures,Major Studio,8/2/2019,2019,August,8,Friday
+Monsters vs. Aliens,59321095,198351526,29.9,4104,DreamWorks,Others,3/27/2009,2009,March,3,Friday
+Star Trek Beyond,59253211,158848340,37.3,3928,Paramount Pictures,Major Studio,7/22/2016,2016,July,7,Friday
+Jumanji: The Next Level,59251543,320314960,18.5,4227,Sony Pictures,Major Studio,12/13/2019,2019,December,12,Friday
+Jason Bourne,59215365,162434410,36.4,4026,Universal Pictures,Major Studio,7/29/2016,2016,July,7,Friday
+Pearl Harbor,59078912,198542554,29.8,3214,Walt Disney,Major Studio,5/25/2001,2001,May,5,Friday
+Creed III,58370007,156248615,37.4,4007,MGM Amazon Prime,Others,3/3/2023,2023,March,3,Friday
+Fantastic Four: Rise of the Silver Surfer,58051684,131921738,44,3959,Walt Disney,Major Studio,6/15/2007,2007,June,6,Friday
+Sonic the Hedgehog,58018348,148974665,39,4167,Paramount Pictures,Major Studio,2/14/2020,2020,February,2,Friday
+Hannibal,58003121,165092268,35.1,3230,MGM Amazon Prime,Others,2/9/2001,2001,February,2,Friday
+Mission: Impossible II,57845297,215409889,26.8,3653,Paramount Pictures,Major Studio,5/24/2000,2000,May,5,Wednesday
+Ant-Man,57225526,180202163,31.8,3856,Walt Disney,Major Studio,7/17/2015,2015,July,7,Friday
+22 Jump Street,57071445,191719337,29.8,3306,Sony Pictures,Major Studio,6/13/2014,2014,June,6,Friday
+Sex and the City,57038404,152647258,37.4,3285,Warner Bros.,Major Studio,5/30/2008,2008,May,5,Friday
+John Wick: Chapter 3 - Parabellum,56818067,171015687,33.2,3850,Lionsgate,Others,5/17/2019,2019,May,5,Friday
+Moana,56631401,248757044,22.8,3875,Walt Disney,Major Studio,11/23/2016,2016,November,11,Wednesday
+Despicable Me,56397125,251513985,22.4,3476,Universal Pictures,Major Studio,7/9/2010,2010,July,7,Friday
+War for the Planet of the Apes,56262929,146880162,38.3,4022,Walt Disney,Major Studio,7/14/2017,2017,July,7,Friday
+Valentine's Day,56260707,110485654,50.9,3665,Warner Bros.,Major Studio,2/12/2010,2010,February,2,Friday
+Ralph Breaks the Internet,56237634,201091711,28,4017,Walt Disney,Major Studio,11/21/2018,2018,November,11,Wednesday
+Snow White and the Huntsman,56217700,155332381,36.2,3773,Universal Pictures,Major Studio,6/1/2012,2012,June,6,Friday
+Big Hero 6,56215889,222527828,25.3,3761,Walt Disney,Major Studio,11/7/2014,2014,November,11,Friday
+Charlie and the Chocolate Factory,56178450,206459076,27.2,3770,Warner Bros.,Major Studio,7/15/2005,2005,July,7,Friday
+Fantastic Four,56061504,154696080,36.2,3602,Walt Disney,Major Studio,7/8/2005,2005,July,7,Friday
+Gravity,55785112,274092705,20.4,3575,Warner Bros.,Major Studio,10/4/2013,2013,October,10,Friday
+The Karate Kid,55665805,176591618,31.5,3663,Sony Pictures,Major Studio,6/11/2010,2010,June,6,Friday
+Mission: Impossible - Rogue Nation,55520089,195042377,28.5,3956,Paramount Pictures,Major Studio,7/31/2015,2015,July,7,Friday
+The Incredible Hulk,55414050,134806913,41.1,3505,Universal Pictures,Major Studio,6/13/2008,2008,June,6,Friday
+The SpongeBob Movie: Sponge Out of Water,55365012,162994032,34,3641,Paramount Pictures,Major Studio,2/6/2015,2015,February,2,Friday
+No Time to Die,55225007,160891007,34.3,4407,MGM Amazon Prime,Others,10/8/2021,2021,October,10,Friday
+Watchmen,55214334,107509799,51.4,3611,Warner Bros.,Major Studio,3/6/2009,2009,March,3,Friday
+X-Men: First Class,55101604,146408305,37.6,3641,Walt Disney,Major Studio,6/3/2011,2011,June,6,Friday
+How the Grinch Stole Christmas,55082330,260044825,21.2,3127,Universal Pictures,Major Studio,11/17/2000,2000,November,11,Friday
+The Flash,55043679,107231378,51.3,4234,Warner Bros.,Major Studio,6/16/2023,2023,June,6,Friday
+The Chronicles of Narnia: Prince Caspian,55034805,141621490,38.9,3929,Walt Disney,Major Studio,5/16/2008,2008,May,5,Friday
+How to Train Your Dragon: The Hidden World,55022245,160799505,34.2,4259,Universal Pictures,Major Studio,2/22/2019,2019,February,2,Friday
+Rise of the Planet of the Apes,54806191,176760185,31,3648,Walt Disney,Major Studio,8/5/2011,2011,August,8,Friday
+The Hobbit: The Battle of the Five Armies,54724334,255119788,21.4,3875,Warner Bros.,Major Studio,12/17/2014,2014,December,12,Wednesday
+G.I. Joe: The Rise of Cobra,54713046,150201498,36.4,4007,Paramount Pictures,Major Studio,8/7/2009,2009,August,8,Friday
+Mission: Impossible - Dead Reckoning Part One,54688347,99253469,55.1,4327,Paramount Pictures,Major Studio,7/12/2023,2023,July,7,Wednesday
+Divergent,54607747,150947895,36.2,3936,Lionsgate,Others,3/21/2014,2014,March,3,Friday
+Men in Black 3,54592779,179020854,30.5,4248,Sony Pictures,Major Studio,5/25/2012,2012,May,5,Friday
+San Andreas,54588173,155190832,35.2,3777,Warner Bros.,Major Studio,5/29/2015,2015,May,5,Friday
+X-Men,54471475,157299718,34.6,3025,Walt Disney,Major Studio,7/14/2000,2000,July,7,Friday
+Ted,54415205,218815487,24.9,3239,Universal Pictures,Major Studio,6/29/2012,2012,June,6,Friday
+Pokémon: Detective Pikachu,54365242,144105346,37.7,4202,Warner Bros.,Major Studio,5/10/2019,2019,May,5,Friday
+The Martian,54308575,228433663,23.8,3831,Walt Disney,Major Studio,10/2/2015,2015,October,10,Friday
+Night at the Museum: Battle of the Smithsonian,54173286,177243721,30.6,4096,Walt Disney,Major Studio,5/22/2009,2009,May,5,Friday
+Scooby-Doo,54155312,153294164,35.3,3447,Warner Bros.,Major Studio,6/14/2002,2002,June,6,Friday
+The Nun,53807379,117450119,45.8,3876,Warner Bros.,Major Studio,9/7/2018,2018,September,9,Friday
+Cars 3,53688680,152901115,35.1,4256,Walt Disney,Major Studio,6/16/2017,2017,June,6,Friday
+Shazam!,53505326,140371656,38.1,4217,Warner Bros.,Major Studio,4/5/2019,2019,April,4,Friday
+Green Lantern,53174303,116601172,45.6,3816,Warner Bros.,Major Studio,6/17/2011,2011,June,6,Friday
+The Wolverine,53113752,132556852,40.1,3924,Walt Disney,Major Studio,7/26/2013,2013,July,7,Friday
+The Lego Batman Movie,53003468,175750384,30.2,4088,Warner Bros.,Major Studio,2/10/2017,2017,February,2,Friday
+Batman Forever,52784433,184031112,28.7,2842,Warner Bros.,Major Studio,6/16/1995,1995,June,6,Friday
+Paranormal Activity 3,52568183,104028807,50.5,3321,Paramount Pictures,Major Studio,10/21/2011,2011,October,10,Friday
+Superman Returns,52535096,200081192,26.3,4065,Warner Bros.,Major Studio,6/28/2006,2006,June,6,Wednesday
+The Bourne Supremacy,52521865,176241941,29.8,3165,Universal Pictures,Major Studio,7/23/2004,2004,July,7,Friday
+The Divergent Series: Insurgent,52263680,130179072,40.2,3875,Lionsgate,Others,3/20/2015,2015,March,3,Friday
+"I, Robot",52179887,144801023,36,3420,Walt Disney,Major Studio,7/16/2004,2004,July,7,Friday
+Men in Black II,52148751,190418803,27.4,3557,Sony Pictures,Major Studio,7/3/2002,2002,July,7,Wednesday
+Home,52107731,177397510,29.4,3708,Walt Disney,Major Studio,3/27/2015,2015,March,3,Friday
+Van Helsing,51748040,120177084,43.1,3575,Universal Pictures,Major Studio,5/7/2004,2004,May,5,Friday
+8 Mile,51240555,116750901,43.9,2470,Universal Pictures,Major Studio,11/8/2002,2002,November,11,Friday
+Men in Black,51068455,250690539,20.4,3020,Sony Pictures,Major Studio,7/2/1997,1997,July,7,Wednesday
+Bohemian Rhapsody,51061119,216428042,23.6,4000,Walt Disney,Major Studio,11/2/2018,2018,November,11,Friday
+Prometheus,51050101,126477084,40.4,3396,Walt Disney,Major Studio,6/8/2012,2012,June,6,Friday
+Wanted,50927085,134508551,37.9,3175,Universal Pictures,Major Studio,6/27/2008,2008,June,6,Friday
+Coco,50802605,210460015,24.1,3987,Walt Disney,Major Studio,11/22/2017,2017,November,11,Wednesday
+Jurassic Park III,50771645,181171875,28,3434,Universal Pictures,Major Studio,7/18/2001,2001,July,7,Wednesday
+The Village,50746142,114197520,44.4,3730,Walt Disney,Major Studio,7/30/2004,2004,July,7,Friday
+Lightyear,50577961,118307188,42.8,4255,Walt Disney,Major Studio,6/17/2022,2022,June,6,Friday
+Dunkirk,50513488,188045546,26.9,3720,Warner Bros.,Major Studio,7/21/2017,2017,July,7,Friday
+2 Fast 2 Furious,50472480,127154901,39.7,3408,Universal Pictures,Major Studio,6/6/2003,2003,June,6,Friday
+Jackass 3D,50353641,117229692,43,3081,Paramount Pictures,Major Studio,10/15/2010,2010,October,10,Friday
+Mr. & Mrs. Smith,50342878,186336279,27,3424,Walt Disney,Major Studio,6/10/2005,2005,June,6,Friday
+Rush Hour 3,50237000,140125968,35.8,3778,Warner Bros.,Major Studio,8/10/2007,2007,August,8,Friday
+Independence Day,50228264,306169268,16.4,2882,Walt Disney,Major Studio,7/3/1996,1996,July,7,Wednesday
+A Quiet Place,50203562,188024361,26.7,3508,Paramount Pictures,Major Studio,4/6/2018,2018,April,4,Friday
+The Boss Baby,50198902,175003033,28.7,3773,Walt Disney,Major Studio,3/31/2017,2017,March,3,Friday
+King Kong,50130145,218080025,23,3568,Universal Pictures,Major Studio,12/14/2005,2005,December,12,Wednesday
+The Great Gatsby,50085185,144840419,34.6,3535,Warner Bros.,Major Studio,5/10/2013,2013,May,5,Friday
+Scary Movie 3,49700000,110003217,45.2,3505,The Weinstein Company,Others,10/24/2003,2003,October,10,Friday
+Taken 2,49514769,139854287,35.4,3661,Walt Disney,Major Studio,10/5/2012,2012,October,10,Friday
+How to Train Your Dragon 2,49451322,177002924,27.9,4253,Walt Disney,Major Studio,6/13/2014,2014,June,6,Friday
+Halloween Kills,49404980,92002155,53.7,3705,Universal Pictures,Major Studio,10/15/2021,2021,October,10,Friday
+Wreck-It Ralph,49038712,189422889,25.9,3752,Walt Disney,Major Studio,11/2/2012,2012,November,11,Friday
+Neighbors,49033915,150157400,32.7,3279,Universal Pictures,Major Studio,5/9/2014,2014,May,5,Friday
+Alvin and the Chipmunks: The Squeakquel,48875415,219614612,22.3,3700,Walt Disney,Major Studio,12/23/2009,2009,December,12,Wednesday
+Tangled,48767052,200821936,24.3,3603,Walt Disney,Major Studio,11/24/2010,2010,November,11,Wednesday
+Batman Begins,48745440,205343774,23.7,3858,Warner Bros.,Major Studio,6/15/2005,2005,June,6,Wednesday
+The Matrix Revolutions,48475154,139313948,34.8,3502,Warner Bros.,Major Studio,11/5/2003,2003,November,11,Wednesday
+Hotel Transylvania 2,48464322,169700110,28.6,3754,Sony Pictures,Major Studio,9/25/2015,2015,September,9,Friday
+The Fault in Our Stars,48002523,124872350,38.4,3173,Walt Disney,Major Studio,6/6/2014,2014,June,6,Friday
+Godzilla: King of the Monsters,47776293,110500138,43.2,4108,Warner Bros.,Major Studio,5/31/2019,2019,May,5,Friday
+Mission: Impossible III,47743273,134029801,35.6,4054,Paramount Pictures,Major Studio,5/5/2006,2006,May,5,Friday
+Lara Croft: Tomb Raider,47735743,131168070,36.4,3308,Paramount Pictures,Major Studio,6/15/2001,2001,June,6,Friday
+Kung Fu Panda 2,47656302,165249063,28.8,3925,DreamWorks,Others,5/26/2011,2011,May,5,Thursday
+The Longest Yard,47606480,158119460,30.1,3634,Paramount Pictures,Major Studio,5/27/2005,2005,May,5,Friday
+Shark Tale,47604606,160861908,29.6,4016,DreamWorks,Others,10/1/2004,2004,October,10,Friday
+A Quiet Place Part II,47547231,160072261,29.7,3726,Paramount Pictures,Major Studio,5/28/2021,2021,May,5,Friday
+Interstellar,47510360,188020017,25.3,3561,Paramount Pictures,Major Studio,11/5/2014,2014,November,11,Wednesday
+Madagascar,47224594,193595521,24.4,4131,DreamWorks,Others,5/27/2005,2005,May,5,Friday
+The Lord of the Rings: The Fellowship of the Ring,47211490,313364114,15.1,3359,Warner Bros.,Major Studio,12/19/2001,2001,December,12,Wednesday
+Die Another Day,47072040,160942139,29.2,3314,MGM Amazon Prime,Others,11/22/2002,2002,November,11,Friday
+Talladega Nights: The Ballad of Ricky Bobby,47042215,148213377,31.7,3803,Sony Pictures,Major Studio,8/4/2006,2006,August,8,Friday
+Ratatouille,47027395,206445654,22.8,3940,Walt Disney,Major Studio,6/29/2007,2007,June,6,Friday
+Jurassic Park,47026828,357067947,13.2,2404,Universal Pictures,Major Studio,6/11/1993,1993,June,6,Friday
+Troy,46865412,133378256,35.1,3411,Warner Bros.,Major Studio,5/14/2004,2004,May,5,Friday
+The Secret Life of Pets 2,46652680,158874395,29.4,4561,Universal Pictures,Major Studio,6/7/2019,2019,June,6,Friday
+Pirates of the Caribbean: The Curse of the Black Pearl,46630690,305413918,15.3,3269,Walt Disney,Major Studio,7/9/2003,2003,July,7,Wednesday
+Ice Age: Continental Drift,46629259,161321843,28.9,3881,Walt Disney,Major Studio,7/13/2012,2012,July,7,Friday
+Fifty Shades Darker,46607250,114581250,40.7,3710,Universal Pictures,Major Studio,2/10/2017,2017,February,2,Friday
+Trolls,46581142,153707064,30.3,4060,Walt Disney,Major Studio,11/4/2016,2016,November,11,Friday
+Bad Boys II,46522560,138608444,33.6,3186,Sony Pictures,Major Studio,7/18/2003,2003,July,7,Friday
+Ice Age,46312454,176387405,26.3,3316,Walt Disney,Major Studio,3/15/2002,2002,March,3,Friday
+Angels & Demons,46204168,133375846,34.6,3527,Sony Pictures,Major Studio,5/15/2009,2009,May,5,Friday
+Meet the Fockers,46120980,279261160,16.5,3518,Universal Pictures,Major Studio,12/22/2004,2004,December,12,Wednesday
+Ghostbusters,46018755,128350574,35.8,3963,Sony Pictures,Major Studio,7/15/2016,2016,July,7,Friday
+Megamind,46016833,148415853,31,3944,DreamWorks,Others,11/5/2010,2010,November,11,Friday
+Dumbo,45990748,114766307,40.1,4259,Walt Disney,Major Studio,3/29/2019,2019,March,3,Friday
+Batman Returns,45687711,162831698,28.1,2644,Warner Bros.,Major Studio,6/19/1992,1992,June,6,Friday
+Mission: Impossible,45436830,180981856,25.1,3012,Paramount Pictures,Major Studio,5/22/1996,1996,May,5,Wednesday
+Mad Max: Fury Road,45428128,153636354,29.6,3702,Warner Bros.,Major Studio,5/15/2015,2015,May,5,Friday
+The Meg,45402195,145443742,31.2,4118,Warner Bros.,Major Studio,8/10/2018,2018,August,8,Friday
+Ghost Rider,45388836,115802596,39.2,3619,Sony Pictures,Major Studio,2/16/2007,2007,February,2,Friday
+American Pie 2,45117985,145103595,31.1,3063,Universal Pictures,Major Studio,8/10/2001,2001,August,8,Friday
+300: Rise of an Empire,45038460,106580051,42.3,3470,Warner Bros.,Major Studio,3/7/2014,2014,March,3,Friday
+Horton Hears a Who!,45012998,154529439,29.1,3954,Walt Disney,Major Studio,3/14/2008,2008,March,3,Friday
+The Hangover,44979319,277322503,16.2,3269,Warner Bros.,Major Studio,6/5/2009,2009,June,6,Friday
+National Treasure: Book of Secrets,44783772,219964115,20.4,3832,Walt Disney,Major Studio,12/21/2007,2007,December,12,Friday
+Transformers: The Last Knight,44680073,130168683,34.3,4069,Paramount Pictures,Major Studio,6/21/2017,2017,June,6,Wednesday
+xXx,44506103,142109382,31.3,3374,Revolution Studios,Others,8/9/2002,2002,August,8,Friday
+Scream VI,44447270,108161389,41.1,3675,Paramount Pictures,Major Studio,3/10/2023,2023,March,3,Friday
+Nope,44366910,123277080,36,3785,Universal Pictures,Major Studio,7/22/2022,2022,July,7,Friday
+Alvin and the Chipmunks,44307417,217326974,20.4,3475,Walt Disney,Major Studio,12/14/2007,2007,December,12,Friday
+The Peanuts Movie,44213073,130178411,34,3897,Walt Disney,Major Studio,11/6/2015,2015,November,11,Friday
+Hotel Transylvania 3: Summer Vacation,44076225,167510016,26.3,4267,Sony Pictures,Major Studio,7/13/2018,2018,July,7,Friday
+Godzilla,44047541,136314294,32.3,3310,Sony Pictures,Major Studio,5/20/1998,1998,May,5,Wednesday
+Terminator 3: Rise of the Machines,44041440,150371112,29.3,3504,Warner Bros.,Major Studio,7/2/2003,2003,July,7,Wednesday
+TRON: Legacy,44026211,172062763,25.6,3451,Walt Disney,Major Studio,12/17/2010,2010,December,12,Friday
+Uncharted,44010155,148648820,29.6,4275,Sony Pictures,Major Studio,2/18/2022,2022,February,2,Friday
+Ghostbusters: Afterlife,44008406,129360575,34,4315,Sony Pictures,Major Studio,11/19/2021,2021,November,11,Friday
+Lucy,43899340,126663600,34.7,3173,Universal Pictures,Major Studio,7/25/2014,2014,July,7,Friday
+How to Train Your Dragon,43732319,217581231,20.1,4055,DreamWorks,Others,3/26/2010,2010,March,3,Friday
+Noah,43720472,101200044,43.2,3567,Paramount Pictures,Major Studio,3/28/2014,2014,March,3,Friday
+The Croods,43639736,187168425,23.3,4046,Walt Disney,Major Studio,3/22/2013,2013,March,3,Friday
+American Gangster,43565135,130164645,33.5,3054,Universal Pictures,Major Studio,11/2/2007,2007,November,11,Friday
+The Mummy,43369635,155385488,27.9,3210,Universal Pictures,Major Studio,5/7/1999,1999,May,5,Friday
+Hitch,43142214,179495555,24,3575,Sony Pictures,Major Studio,2/11/2005,2005,February,2,Friday
+A Star Is Born,42908051,215288866,19.9,3686,Warner Bros.,Major Studio,10/5/2018,2018,October,10,Friday
+Batman & Robin,42872605,107325195,40,2934,Warner Bros.,Major Studio,6/20/1997,1997,June,6,Friday
+Terminator Salvation,42558390,125322469,34,3530,Warner Bros.,Major Studio,5/21/2009,2009,May,5,Thursday
+Hotel Transylvania,42522194,148313048,28.7,3349,Sony Pictures,Major Studio,9/28/2012,2012,September,9,Friday
+Nutty Professor II: The Klumps,42518830,123309890,34.5,3242,Universal Pictures,Major Studio,7/28/2000,2000,July,7,Friday
+Shrek,42347760,267665011,15.8,3587,DreamWorks,Others,5/16/2001,2001,May,5,Wednesday
+Scary Movie,42346669,157019771,27,2912,Paramount Pictures,Major Studio,7/7/2000,2000,July,7,Friday
+Anger Management,42220847,135645823,31.1,3551,Revolution Studios,Others,4/11/2003,2003,April,4,Friday
+Fantastic Beasts: The Secrets of Dumbledore,42151256,95850844,44,4208,Warner Bros.,Major Studio,4/15/2022,2022,April,4,Friday
+High School Musical 3: Senior Year,42030184,90559416,46.4,3623,Walt Disney,Major Studio,10/24/2008,2008,October,10,Friday
+The Conjuring,41855326,137400141,30.5,2903,Warner Bros.,Major Studio,7/19/2013,2013,July,7,Friday
+Ready Player One,41764050,137690172,30.3,4234,Warner Bros.,Major Studio,3/29/2018,2018,March,3,Thursday
+Ice Age: Dawn of the Dinosaurs,41690382,196573705,21.2,4099,Walt Disney,Major Studio,7/1/2009,2009,July,7,Wednesday
+The Hangover Part III,41671198,112200072,37.1,3555,Warner Bros.,Major Studio,5/23/2013,2013,May,5,Thursday
+Ocean's Eight,41607378,140218711,29.7,4145,Warner Bros.,Major Studio,6/8/2018,2018,June,6,Friday
+Big Daddy,41536370,163479795,25.4,3027,Sony Pictures,Major Studio,6/25/1999,1999,June,6,Friday
+Happy Feet,41533432,198000317,21,3804,Warner Bros.,Major Studio,11/17/2006,2006,November,11,Friday
+Ride Along,41516170,134938200,30.8,2663,Universal Pictures,Major Studio,1/17/2014,2014,January,1,Friday
+Grown Ups 2,41508572,133668525,31,3491,Sony Pictures,Major Studio,7/12/2013,2013,July,7,Friday
+The Perfect Storm,41325042,182618434,22.6,3407,Warner Bros.,Major Studio,6/30/2000,2000,June,6,Friday
+Kung Fu Panda 3,41282042,143528619,28.8,3955,Walt Disney,Major Studio,1/29/2016,2016,January,1,Friday
+The Vow,41202458,125014030,33,2958,Sony Pictures,Major Studio,2/10/2012,2012,February,2,Friday
+Deep Impact,41152375,140464664,29.3,3156,Paramount Pictures,Major Studio,5/8/1998,1998,May,5,Friday
+Once Upon a Time in Hollywood,41082018,142502728,28.8,3659,Sony Pictures,Major Studio,7/26/2019,2019,July,7,Friday
+Shutter Island,41062440,128012934,32.1,2991,Paramount Pictures,Major Studio,2/19/2010,2010,February,2,Friday
+Twister,41059405,241721524,17,2414,Warner Bros.,Major Studio,5/10/1996,1996,May,5,Friday
+Independence Day: Resurgence,41039944,103144286,39.8,4130,Walt Disney,Major Studio,6/24/2016,2016,June,6,Friday
+Madea Goes to Jail,41030947,90508336,45.3,2032,Lionsgate,Others,2/20/2009,2009,February,2,Friday
+Dune,41011174,108327830,37.9,4125,Warner Bros.,Major Studio,10/22/2021,2021,October,10,Friday
+Casino Royale,40833156,167445960,24.4,3434,Sony Pictures,Major Studio,11/17/2006,2006,November,11,Friday
+Paranormal Activity 2,40678424,84752907,48,3216,Paramount Pictures,Major Studio,10/22/2010,2010,October,10,Friday
+Friday the 13th,40570365,65002019,62.4,3105,Warner Bros.,Major Studio,2/13/2009,2009,February,2,Friday
+Grown Ups,40506562,162001186,25,3534,Sony Pictures,Major Studio,6/25/2010,2010,June,6,Friday
+G.I. Joe: Retaliation,40501814,122523060,33.1,3719,Paramount Pictures,Major Studio,3/28/2013,2013,March,3,Thursday
+Batman,40489746,251188924,16.1,2194,Warner Bros.,Major Studio,6/23/1989,1989,June,6,Friday
+The Mummy: Tomb of the Dragon Emperor,40457770,102491776,39.5,3760,Universal Pictures,Major Studio,8/1/2008,2008,August,8,Friday
+The Conjuring 2,40406314,102470008,39.4,3343,Warner Bros.,Major Studio,6/10/2016,2016,June,6,Friday
+Glass,40328920,111048468,36.3,3841,Universal Pictures,Major Studio,1/18/2019,2019,January,1,Friday
+The Last Airbender,40325019,131772187,30.6,3169,Paramount Pictures,Major Studio,7/1/2010,2010,July,7,Thursday
+Daredevil,40310419,102543518,39.3,3471,Walt Disney,Major Studio,2/14/2003,2003,February,2,Friday
+Power Rangers,40300288,85364450,47.2,3693,Lionsgate,Others,3/24/2017,2017,March,3,Friday
+Insidious: Chapter 2,40272103,83586447,48.2,3049,Universal Pictures,Major Studio,9/13/2013,2013,September,9,Friday
+Scary Movie 4,40222875,90710620,44.3,3602,,Others,4/14/2006,2006,April,4,Friday
+Safe House,40172720,126373434,31.8,3119,Universal Pictures,Major Studio,2/10/2012,2012,February,2,Friday
+Charlie's Angels,40128550,125305545,32,3037,Sony Pictures,Major Studio,11/3/2000,2000,November,11,Friday
+The Fast and the Furious,40089015,144533925,27.7,2628,Universal Pictures,Major Studio,6/22/2001,2001,June,6,Friday
+Cloverfield,40058229,80048433,50,3411,Paramount Pictures,Major Studio,1/18/2008,2008,January,1,Friday
+Halloween Ends,40050355,64079860,62.5,3901,Universal Pictures,Major Studio,10/14/2022,2022,October,10,Friday
+Chicken Little,40049778,135386665,29.6,3654,Walt Disney,Major Studio,11/4/2005,2005,November,11,Friday
+Click,40011365,137355633,29.1,3749,Revolution Studios,Others,6/23/2006,2006,June,6,Friday
+Split,40010975,138291365,28.9,3038,Universal Pictures,Major Studio,1/20/2017,2017,January,1,Friday
+50 First Dates,39852237,120908074,33,3591,Sony Pictures,Major Studio,2/13/2004,2004,February,2,Friday
+Wild Hogs,39699023,168273550,23.6,3287,Walt Disney,Major Studio,3/2/2007,2007,March,3,Friday
+Sherlock Holmes: A Game of Shadows,39637079,186848418,21.2,3703,Warner Bros.,Major Studio,12/16/2011,2011,December,12,Friday
+The Waterboy,39414071,161491646,24.4,2664,Walt Disney,Major Studio,11/6/1998,1998,November,11,Friday
+Rio 2,39327869,131538435,29.9,3948,Walt Disney,Major Studio,4/11/2014,2014,April,4,Friday
+Rio,39225962,143619809,27.3,3826,Walt Disney,Major Studio,4/15/2011,2011,April,4,Friday
+Taken 3,39201657,89256424,43.9,3594,Walt Disney,Major Studio,1/9/2015,2015,January,1,Friday
+The Break-Up,39172785,118703275,33,3070,Universal Pictures,Major Studio,6/2/2006,2006,June,6,Friday
+The Good Dinosaur,39155217,123087120,31.8,3749,Walt Disney,Major Studio,11/25/2015,2015,November,11,Wednesday
+Ocean's Twelve,39153380,125544280,31.2,3290,Warner Bros.,Major Studio,12/10/2004,2004,December,12,Friday
+The Grudge,39128715,110359362,35.5,3245,Sony Pictures,Major Studio,10/22/2004,2004,October,10,Friday
+Magic Mike,39127170,113721571,34.4,2930,Warner Bros.,Major Studio,6/29/2012,2012,June,6,Friday
+Onward,39119861,61555145,63.6,4310,Walt Disney,Major Studio,3/6/2020,2020,March,3,Friday
+The Heat,39115043,159582188,24.5,3181,Walt Disney,Major Studio,6/28/2013,2013,June,6,Friday
+Kingsman: The Golden Circle,39023010,100229647,38.9,4003,Walt Disney,Major Studio,9/22/2017,2017,September,9,Friday
+Morbius,39005895,73865530,52.8,4268,Sony Pictures,Major Studio,4/1/2022,2022,April,4,Friday
+Dinosaur,38854851,137748063,28.2,3257,Walt Disney,Major Studio,5/19/2000,2000,May,5,Friday
+Daddy's Home,38740203,150357137,25.8,3271,Paramount Pictures,Major Studio,12/25/2015,2015,December,12,Friday
+Get Smart,38683480,130319208,29.7,3911,Warner Bros.,Major Studio,6/20/2008,2008,June,6,Friday
+Fifty Shades Freed,38560195,100407760,38.4,3768,Universal Pictures,Major Studio,2/9/2018,2018,February,2,Friday
+You Don't Mess with the Zohan,38531374,100018837,38.5,3462,Sony Pictures,Major Studio,6/6/2008,2008,June,6,Friday
+The Legend of Tarzan,38527856,126643061,30.4,3561,Warner Bros.,Major Studio,7/1/2016,2016,July,7,Friday
+Over the Hedge,38457003,155019340,24.8,4059,DreamWorks,Others,5/19/2006,2006,May,5,Friday
+The Cat in the Hat,38329160,101149285,37.9,3464,Universal Pictures,Major Studio,11/21/2003,2003,November,11,Friday
+Alien vs. Predator,38291056,80282231,47.7,3395,Walt Disney,Major Studio,8/13/2004,2004,August,8,Friday
+The Angry Birds Movie,38155177,107509366,35.5,3932,Sony Pictures,Major Studio,5/20/2016,2016,May,5,Friday
+The Bourne Legacy,38142825,113203870,33.7,3745,Universal Pictures,Major Studio,8/10/2012,2012,August,8,Friday
+Ocean's Eleven,38107822,183417150,20.8,3075,Warner Bros.,Major Studio,12/7/2001,2001,December,12,Friday
+Rango,38079323,123477607,30.8,3917,Paramount Pictures,Major Studio,3/4/2011,2011,March,3,Friday
+Inglourious Basterds,38054676,120540719,31.6,3165,The Weinstein Company,Others,8/21/2009,2009,August,8,Friday
+Bee Movie,38021044,126631277,30,3928,DreamWorks,Others,11/2/2007,2007,November,11,Friday
+Ace Ventura: When Nature Calls,37804076,108385533,34.9,2652,Warner Bros.,Major Studio,11/10/1995,1995,November,11,Friday
+Charlie's Angels: Full Throttle,37634221,100830111,37.3,3459,Sony Pictures,Major Studio,6/27/2003,2003,June,6,Friday
+Hop,37543710,108085305,34.7,3579,Universal Pictures,Major Studio,4/1/2011,2011,April,4,Friday
+Gone Girl,37513109,167767189,22.4,3014,Walt Disney,Major Studio,10/3/2014,2014,October,10,Friday
+District 9,37354308,115646235,32.3,3049,Sony Pictures,Major Studio,8/14/2009,2009,August,8,Friday
+Pacific Rim,37285325,101802906,36.6,3275,Warner Bros.,Major Studio,7/12/2013,2013,July,7,Friday
+Dungeons & Dragons: Honor Among Thieves,37205784,93277026,39.9,3855,Paramount Pictures,Major Studio,3/31/2023,2023,March,3,Friday
+Mr. Deeds,37162787,126293452,29.4,3231,Sony Pictures,Major Studio,6/28/2002,2002,June,6,Friday
+Annabelle,37134255,84273813,44.1,3185,Warner Bros.,Major Studio,10/3/2014,2014,October,10,Friday
+Air Force One,37132505,172956409,21.5,2919,Sony Pictures,Major Studio,7/25/1997,1997,July,7,Friday
+S.W.A.T.,37062535,116934650,31.7,3202,Sony Pictures,Major Studio,8/8/2003,2003,August,8,Friday
+Oblivion,37054485,89107235,41.6,3783,Universal Pictures,Major Studio,4/19/2013,2013,April,4,Friday
+Maleficent: Mistress of Evil,36948713,113929605,32.4,3790,Walt Disney,Major Studio,10/18/2019,2019,October,10,Friday
+Red Dragon,36540945,93149898,39.2,3357,Universal Pictures,Major Studio,10/4/2002,2002,October,10,Friday
+Cowboys & Aliens,36431290,100240551,36.3,3750,Universal Pictures,Major Studio,7/29/2011,2011,July,7,Friday
+Freddy vs. Jason,36400000,82622655,44.1,3014,Warner Bros.,Major Studio,8/15/2003,2003,August,8,Friday
+Interview with the Vampire: The Vampire Chronicles,36389705,105264608,34.6,2604,Warner Bros.,Major Studio,11/11/1994,1994,November,11,Friday
+Marley & Me,36357586,143153751,25.4,3480,Walt Disney,Major Studio,12/25/2008,2008,December,12,Thursday
+21 Jump Street,36302612,138447667,26.2,3121,Sony Pictures,Major Studio,3/16/2012,2012,March,3,Friday
+Kingsman: The Secret Service,36206331,128261724,28.2,3204,Walt Disney,Major Studio,2/13/2015,2015,February,2,Friday
+Jumanji: Welcome to the Jungle,36169328,404515480,8.9,3765,Sony Pictures,Major Studio,12/20/2017,2017,December,12,Wednesday
+Alien: Covenant,36160621,74262031,48.7,3761,Walt Disney,Major Studio,5/19/2017,2017,May,5,Friday
+Ocean's Thirteen,36133403,117154724,30.8,3565,Warner Bros.,Major Studio,6/8/2007,2007,June,6,Friday
+Dumb and Dumber To,36111775,86208010,41.9,3154,Universal Pictures,Major Studio,11/14/2014,2014,November,11,Friday
+Armageddon,36089972,201578182,17.9,3127,Walt Disney,Major Studio,7/1/1998,1998,July,7,Wednesday
+The Scorpion King,36075875,91047077,39.6,3444,Universal Pictures,Major Studio,4/19/2002,2002,April,4,Friday
+Robin Hood,36063385,105269730,34.3,3503,Universal Pictures,Major Studio,5/14/2010,2010,May,5,Friday
+Robots,36045301,128200012,28.1,3776,Walt Disney,Major Studio,3/11/2005,2005,March,3,Friday
+The Equalizer 2,36011640,102084362,35.3,3388,Sony Pictures,Major Studio,7/20/2018,2018,July,7,Friday
+Salt,36011243,118311368,30.4,3612,Sony Pictures,Major Studio,7/23/2010,2010,July,7,Friday
+Star Wars: Episode IV - A New Hope,35906661,138257865,26,2104,Walt Disney,Major Studio,1/31/1997,1997,January,1,Friday
+1997 Special Edition,35906661,138257865,26,2104,Walt Disney,Major Studio,1/31/1997,1997,January,1,Friday
+"10,000 BC",35867488,94784201,37.8,3410,Warner Bros.,Major Studio,3/7/2008,2008,March,3,Friday
+Rampage,35753093,101028233,35.4,4101,Warner Bros.,Major Studio,4/13/2018,2018,April,4,Friday
+Minority Report,35677125,132072926,27,3001,Walt Disney,Major Studio,6/21/2002,2002,June,6,Friday
+Sweet Home Alabama,35648740,127223418,28,3293,Walt Disney,Major Studio,9/27/2002,2002,September,9,Friday
+The Smurfs,35611637,142614158,25,3395,Sony Pictures,Major Studio,7/29/2011,2011,July,7,Friday
+Creed II,35574710,115715889,30.7,3441,MGM Amazon Prime,Others,11/21/2018,2018,November,11,Wednesday
+Battle Los Angeles,35573187,83552429,42.6,3417,Sony Pictures,Major Studio,3/11/2011,2011,March,3,Friday
+The Other Guys,35543162,119219978,29.8,3651,Sony Pictures,Major Studio,8/6/2010,2010,August,8,Friday
+Central Intelligence,35535250,127440871,27.9,3508,Warner Bros.,Major Studio,6/17/2016,2016,June,6,Friday
+The World Is Not Enough,35519007,126943684,28,3163,MGM Amazon Prime,Others,11/19/1999,1999,November,11,Friday
+Super 8,35451168,127004179,27.9,3379,Paramount Pictures,Major Studio,6/10/2011,2011,June,6,Friday
+Spider-Man: Into the Spider-Verse,35363376,190241310,18.6,3813,Sony Pictures,Major Studio,12/14/2018,2018,December,12,Friday
+Teenage Mutant Ninja Turtles: Out of the Shadows,35316382,82051601,43,4071,Paramount Pictures,Major Studio,6/3/2016,2016,June,6,Friday
+Lilo & Stitch,35260212,145794338,24.2,3191,Walt Disney,Major Studio,6/21/2002,2002,June,6,Friday
+Sing,35258145,270395425,13,4022,Universal Pictures,Major Studio,12/21/2016,2016,December,12,Wednesday
+Ride Along 2,35243095,91221830,38.6,3175,Universal Pictures,Major Studio,1/15/2016,2016,January,1,Friday
+National Treasure,35142554,173008894,20.3,3017,Walt Disney,Major Studio,11/19/2004,2004,November,11,Friday
+The Ring Two,35065237,76231249,46,3332,DreamWorks,Others,3/18/2005,2005,March,3,Friday
+Runaway Bride,35055556,152257509,23,3158,Paramount Pictures,Major Studio,7/30/1999,1999,July,7,Friday
+Sully,35028301,125070033,28,3525,Warner Bros.,Major Studio,9/9/2016,2016,September,9,Friday
+Jungle Cruise,35018731,116987516,29.9,4310,Walt Disney,Major Studio,7/30/2021,2021,July,7,Friday
+Annabelle: Creation,35006404,102092201,34.3,3502,Warner Bros.,Major Studio,8/11/2017,2017,August,8,Friday
+Mamma Mia! Here We Go Again,34952180,120634935,29,3317,Universal Pictures,Major Studio,7/20/2018,2018,July,7,Friday
+The Expendables,34825135,103068524,33.8,3270,Lionsgate,Others,8/13/2010,2010,August,8,Friday
+Gladiator,34819017,187705427,18.6,2938,DreamWorks,Others,5/5/2000,2000,May,5,Friday
+Scream 3,34713342,89143175,38.9,3467,The Weinstein Company,Others,2/4/2000,2000,February,2,Friday
+The Magnificent Seven,34703397,93432655,37.1,3674,Sony Pictures,Major Studio,9/23/2016,2016,September,9,Friday
+Identity Thief,34551025,134506920,25.7,3141,Universal Pictures,Major Studio,2/8/2013,2013,February,2,Friday
+Hellboy II: The Golden Army,34539115,75986503,45.4,3204,Universal Pictures,Major Studio,7/11/2008,2008,July,7,Friday
+Enchanted,34440317,127807262,27,3730,Walt Disney,Major Studio,11/21/2007,2007,November,11,Wednesday
+Couples Retreat,34286740,109204945,31.4,3000,Universal Pictures,Major Studio,10/9/2009,2009,October,10,Friday
+Sausage Party,34263534,97685686,35.1,3103,Sony Pictures,Major Studio,8/12/2016,2016,August,8,Friday
+I Now Pronounce You Chuck & Larry,34233750,120059556,28.5,3495,Universal Pictures,Major Studio,7/20/2007,2007,July,7,Friday
+Tarzan,34221968,171091819,20,3005,Walt Disney,Major Studio,6/16/1999,1999,June,6,Wednesday
+Ransom,34216088,136492681,25.1,2676,Walt Disney,Major Studio,11/8/1996,1996,November,11,Friday
+Norbit,34195434,95673607,35.7,3136,DreamWorks,Others,2/9/2007,2007,February,2,Friday
+The Equalizer,34137828,101530738,33.6,3236,Sony Pictures,Major Studio,9/26/2014,2014,September,9,Friday
+The Blind Side,34119372,255959475,13.3,3110,Warner Bros.,Major Studio,11/20/2009,2009,November,11,Friday
+The Lego Movie 2: The Second Part,34115335,105806508,32.2,4303,Warner Bros.,Major Studio,2/8/2019,2019,February,2,Friday
+Puss in Boots,34077439,149260504,22.8,3952,DreamWorks,Others,10/28/2011,2011,October,10,Friday
+The Purge,34058360,64473115,52.8,2536,Universal Pictures,Major Studio,6/7/2013,2013,June,6,Friday
+Lethal Weapon 4,34048124,130444603,26.1,3117,Warner Bros.,Major Studio,7/10/1998,1998,July,7,Friday
+Cloudy with a Chance of Meatballs 2,34017930,119793567,28.4,4001,Sony Pictures,Major Studio,9/27/2013,2013,September,9,Friday
+Get Hard,33803253,90411453,37.4,3175,Warner Bros.,Major Studio,3/27/2015,2015,March,3,Friday
+The Devil Inside,33732515,53261944,63.3,2285,Paramount Pictures,Major Studio,1/6/2012,2012,January,1,Friday
+Think Like a Man,33636303,91547205,36.7,2015,Sony Pictures,Major Studio,4/20/2012,2012,April,4,Friday
+The Proposal,33627598,163958031,20.5,3056,Walt Disney,Major Studio,6/19/2009,2009,June,6,Friday
+What Women Want,33614543,182811707,18.4,3012,Paramount Pictures,Major Studio,12/15/2000,2000,December,12,Friday
+Saw III,33610391,80238724,41.9,3167,Lionsgate,Others,10/27/2006,2006,October,10,Friday
+Epic,33531068,107518682,31.2,3882,Walt Disney,Major Studio,5/24/2013,2013,May,5,Friday
+The Green Hornet,33526876,98780042,33.9,3584,Sony Pictures,Major Studio,1/14/2011,2011,January,1,Friday
+Ted 2,33507870,81476385,41.1,3442,Universal Pictures,Major Studio,6/26/2015,2015,June,6,Friday
+101 Dalmatians,33504025,136189294,24.6,2794,Walt Disney,Major Studio,11/27/1996,1996,November,11,Wednesday
+Wrath of the Titans,33457188,83670083,40,3545,Warner Bros.,Major Studio,3/30/2012,2012,March,3,Friday
+The Haunting,33435140,91411151,36.6,2808,DreamWorks,Others,7/23/1999,1999,July,7,Friday
+Get Out,33377060,176040665,19,2781,Universal Pictures,Major Studio,2/24/2017,2017,February,2,Friday
+Live Free or Die Hard,33369559,134529403,24.8,3408,Walt Disney,Major Studio,6/27/2007,2007,June,6,Wednesday
+American Wedding,33369440,104565114,31.9,3172,Universal Pictures,Major Studio,8/1/2003,2003,August,8,Friday
+Lethal Weapon 3,33243086,144731527,23,2510,Warner Bros.,Major Studio,5/15/1992,1992,May,5,Friday
+Hustlers,33181361,104963598,31.6,3250,STX Entertainment,Others,9/13/2019,2019,September,9,Friday
+A Wrinkle in Time,33123609,100478608,33,3980,Walt Disney,Major Studio,3/9/2018,2018,March,3,Friday
+Superbad,33052411,121463226,27.2,2948,Sony Pictures,Major Studio,8/17/2007,2007,August,8,Friday
+Tomorrowland,33028165,93436322,35.4,3972,Walt Disney,Major Studio,5/22/2015,2015,May,5,Friday
+Blades of Glory,33014202,118594548,27.8,3372,DreamWorks,Others,3/30/2007,2007,March,3,Friday
+Insidious: The Red Door,33013036,64501673,51.2,3188,Sony Pictures,Major Studio,7/7/2023,2023,July,7,Friday
+Birds of Prey,33010017,84158461,39.2,4236,Warner Bros.,Major Studio,2/7/2020,2020,February,2,Friday
+Rush Hour,33001803,141186864,23.4,2638,Warner Bros.,Major Studio,9/18/1998,1998,September,9,Friday
+Scream 2,32926342,101363301,32.5,2663,The Weinstein Company,Others,12/12/1997,1997,December,12,Friday
+A Nightmare on Elm Street,32902299,63075011,52.2,3332,Warner Bros.,Major Studio,4/30/2010,2010,April,4,Friday
+X-Men: Dark Phoenix,32828348,65845974,49.9,3721,Walt Disney,Major Studio,6/7/2019,2019,June,6,Friday
+The Book of Eli,32789494,94835059,34.6,3111,Warner Bros.,Major Studio,1/15/2010,2010,January,1,Friday
+Blade Runner 2049,32753122,92054159,35.6,4058,Warner Bros.,Major Studio,10/6/2017,2017,October,10,Friday
+Where the Wild Things Are,32695407,77233467,42.3,3735,Warner Bros.,Major Studio,10/16/2009,2009,October,10,Friday
+Due Date,32689406,100539043,32.5,3355,Warner Bros.,Major Studio,11/5/2010,2010,November,11,Friday
+Blade II,32528016,82348319,39.5,2707,Warner Bros.,Major Studio,3/22/2002,2002,March,3,Friday
+The Maze Runner,32512804,102427862,31.7,3604,Walt Disney,Major Studio,9/19/2014,2014,September,9,Friday
+Spy Kids 3: Game Over,32500000,111761982,29.1,3344,The Weinstein Company,Others,7/25/2003,2003,July,7,Friday
+Hannah Montana: The Movie,32324487,79576189,40.6,3118,Walt Disney,Major Studio,4/10/2009,2009,April,4,Friday
+Mr. Peabody & Sherman,32207057,111506430,28.9,3934,Walt Disney,Major Studio,3/7/2014,2014,March,3,Friday
+Immortals,32206425,83504017,38.6,3112,Relativity Media,Others,11/11/2011,2011,November,11,Friday
+Wedding Crashers,32200000,209255921,15.4,2925,Warner Bros.,Major Studio,7/15/2005,2005,July,7,Friday
+Elf,32100000,173398518,18.5,3337,Warner Bros.,Major Studio,11/7/2003,2003,November,11,Friday
+Jackass Presents: Bad Grandpa,32055177,102003019,31.4,3336,Paramount Pictures,Major Studio,10/25/2013,2013,October,10,Friday
+The SpongeBob SquarePants Movie,32018216,85417988,37.5,3212,Paramount Pictures,Major Studio,11/19/2004,2004,November,11,Friday
+Paul Blart: Mall Cop,31832636,146336178,21.8,3144,Sony Pictures,Major Studio,1/16/2009,2009,January,1,Friday
+Terminator 2: Judgment Day,31765506,204843345,15.5,2274,Sony Pictures,Major Studio,7/3/1991,1991,July,7,Wednesday
+Saw IV,31756764,63300095,50.2,3183,Lionsgate,Others,10/26/2007,2007,October,10,Friday
+Saw II,31725652,87039965,36.4,2949,Lionsgate,Others,10/28/2005,2005,October,10,Friday
+G-Force,31706934,119436770,26.6,3697,Walt Disney,Major Studio,7/24/2009,2009,July,7,Friday
+The Mummy,31688375,80227895,39.5,4035,Universal Pictures,Major Studio,6/9/2017,2017,June,6,Friday
+Godzilla vs. Kong,31625971,100916094,31.3,3064,Warner Bros.,Major Studio,3/31/2021,2021,March,3,Wednesday
+Bad Teacher,31603106,100292856,31.5,3049,Sony Pictures,Major Studio,6/24/2011,2011,June,6,Friday
+The Truman Show,31542121,125618201,25.1,2315,Paramount Pictures,Major Studio,6/5/1998,1998,June,6,Friday
+The Purge: Election Year,31515110,79213375,39.8,2796,Universal Pictures,Major Studio,7/1/2016,2016,July,7,Friday
+The Wolfman,31479235,61979680,50.8,3222,Universal Pictures,Major Studio,2/12/2010,2010,February,2,Friday
+Ford v Ferrari,31474958,117624357,26.8,3528,Walt Disney,Major Studio,11/15/2019,2019,November,11,Friday
+Liar Liar,31423025,181410615,17.3,2845,Universal Pictures,Major Studio,3/21/1997,1997,March,3,Friday
+Percy Jackson & the Olympians: The Lightning Thief,31236067,88768303,35.2,3356,Walt Disney,Major Studio,2/12/2010,2010,February,2,Friday
+Elvis,31211579,151040048,20.7,3906,Warner Bros.,Major Studio,6/24/2022,2022,June,6,Friday
+Girls Trip,31201920,115171585,27.1,2591,Universal Pictures,Major Studio,7/21/2017,2017,July,7,Friday
+Evan Almighty,31192615,100462298,31,3604,Universal Pictures,Major Studio,6/22/2007,2007,June,6,Friday
+The Sum of All Fears,31178526,118907036,26.2,3183,Paramount Pictures,Major Studio,5/31/2002,2002,May,5,Friday
+Home Alone 2: Lost in New York,31126882,173585516,17.9,2222,Walt Disney,Major Studio,11/20/1992,1992,November,11,Friday
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,31117834,65281781,47.7,683,Walt Disney,Major Studio,2/1/2008,2008,February,2,Friday
+Bringing Down the House,31101026,132716677,23.4,2801,Walt Disney,Major Studio,3/7/2003,2003,March,3,Friday
+Four Christmases,31069826,120146040,25.9,3310,Warner Bros.,Major Studio,11/26/2008,2008,November,11,Wednesday
+Space Jam: A New Legacy,31053362,70592228,44,3965,Warner Bros.,Major Studio,7/16/2021,2021,July,7,Friday
+Into the Woods,31051923,128002372,24.3,2440,Walt Disney,Major Studio,12/25/2014,2014,December,12,Thursday
+Pokémon: The First Movie - Mewtwo Strikes Back,31036678,85744662,36.2,3043,Warner Bros.,Major Studio,11/10/1999,1999,November,11,Wednesday
+Downton Abbey,31033665,96853865,32,3079,Universal Pictures,Major Studio,9/20/2019,2019,September,9,Friday
+Sex and the City 2,31001870,95347692,32.5,3445,Warner Bros.,Major Studio,5/27/2010,2010,May,5,Thursday
+Step Brothers,30940732,100468793,30.8,3094,Sony Pictures,Major Studio,7/25/2008,2008,July,7,Friday
+Little Fockers,30833665,148438600,20.8,3536,Universal Pictures,Major Studio,12/22/2010,2010,December,12,Wednesday
+Star Trek: First Contact,30716131,92027888,33.4,2812,Paramount Pictures,Major Studio,11/22/1996,1996,November,11,Friday
+Knocked Up,30690990,148768917,20.6,2871,Universal Pictures,Major Studio,6/1/2007,2007,June,6,Friday
+The Dukes of Hazzard,30675314,80270227,38.2,3785,Warner Bros.,Major Studio,8/5/2005,2005,August,8,Friday
+Unbroken,30621445,115637895,26.5,3131,Universal Pictures,Major Studio,12/25/2014,2014,December,12,Thursday
+Brüno,30619130,60054530,51,2756,Universal Pictures,Major Studio,7/10/2009,2009,July,7,Friday
+Saving Private Ryan,30576104,216540909,14.1,2463,DreamWorks,Others,7/24/1998,1998,July,7,Friday
+The Pacifier,30552694,113086868,27,3131,Walt Disney,Major Studio,3/4/2005,2005,March,3,Friday
+Bram Stoker's Dracula,30521679,82522790,37,2491,Sony Pictures,Major Studio,11/13/1992,1992,November,11,Friday
+The Happening,30517109,64506874,47.3,2986,Walt Disney,Major Studio,6/13/2008,2008,June,6,Friday
+Just Go with It,30514732,103028109,29.6,3548,Sony Pictures,Major Studio,2/11/2011,2011,February,2,Friday
+The Day the Earth Stood Still,30480153,79366978,38.4,3560,Walt Disney,Major Studio,12/12/2008,2008,December,12,Friday
+Dear John,30468614,80014842,38.1,2969,Sony Pictures,Major Studio,2/5/2010,2010,February,2,Friday
+The Lost City,30453269,105344029,28.9,4253,Paramount Pictures,Major Studio,3/25/2022,2022,March,3,Friday
+John Wick: Chapter 2,30436123,92029184,33.1,3113,Lionsgate,Others,2/10/2017,2017,February,2,Friday
+Night at the Museum,30433781,250863268,12.1,3685,Walt Disney,Major Studio,12/22/2006,2006,December,12,Friday
+M3gan,30429860,95043350,32,3509,Universal Pictures,Major Studio,1/6/2023,2023,January,1,Friday
+Olympus Has Fallen,30373794,98925640,30.7,3098,Universal Pictures,Major Studio,3/22/2013,2013,March,3,Friday
+Unbreakable,30330771,95011339,31.9,2708,Walt Disney,Major Studio,11/22/2000,2000,November,11,Wednesday
+Maze Runner: The Scorch Trials,30316510,81697192,37.1,3791,Walt Disney,Major Studio,9/18/2015,2015,September,9,Friday
+Cloudy with a Chance of Meatballs,30304648,124870275,24.3,3119,Sony Pictures,Major Studio,9/18/2009,2009,September,9,Friday
+The Addams Family,30300007,100044905,30.3,4007,MGM Amazon Prime,Others,10/11/2019,2019,October,10,Friday
+America's Sweethearts,30181877,93607673,32.2,3011,Revolution Studios,Others,7/20/2001,2001,July,7,Friday
+John Carter,30180188,73078100,41.3,3749,Walt Disney,Major Studio,3/9/2012,2012,March,3,Friday
+The Lion King,30151614,94242001,32,2330,Walt Disney,Major Studio,9/16/2011,2011,September,9,Friday
+2011 3D Release,30151614,94242001,32,2330,Walt Disney,Major Studio,9/16/2011,2011,September,9,Friday
+The X Files,30138758,83898313,35.9,2629,Walt Disney,Major Studio,6/19/1998,1998,June,6,Friday
+Django Unchained,30122888,162805434,18.5,3010,The Weinstein Company,Others,12/25/2012,2012,December,12,Tuesday
+Shazam! Fury of the Gods,30111158,57638006,52.2,4071,Warner Bros.,Major Studio,3/17/2023,2023,March,3,Friday
+The Best Man Holiday,30107555,70525195,42.7,2024,Universal Pictures,Major Studio,11/15/2013,2013,November,11,Friday
+Trainwreck,30097040,110212700,27.3,3158,Universal Pictures,Major Studio,7/17/2015,2015,July,7,Friday
+Prince of Persia: The Sands of Time,30095259,90759676,33.2,3646,Walt Disney,Major Studio,5/28/2010,2010,May,5,Friday
+Dodgeball: A True Underdog Story,30070196,114326736,26.3,2694,Walt Disney,Major Studio,6/18/2004,2004,June,6,Friday
+A Series of Unfortunate Events,30061756,118634549,25.3,3620,Paramount Pictures,Major Studio,12/17/2004,2004,December,12,Friday
+Sleepy Hollow,30060467,101071502,29.7,3064,Paramount Pictures,Major Studio,11/19/1999,1999,November,11,Friday
+Panic Room,30056751,96397334,31.2,3053,Sony Pictures,Major Studio,3/29/2002,2002,March,3,Friday
+The Exorcism of Emily Rose,30054300,75072454,40,2981,Sony Pictures,Major Studio,9/9/2005,2005,September,9,Friday
+Saw V,30053954,56746769,53,3060,Lionsgate,Others,10/24/2008,2008,October,10,Friday
+Catch Me If You Can,30053627,164615351,18.3,3156,DreamWorks,Others,12/25/2002,2002,December,12,Wednesday
+A Christmas Carol,30051075,137855863,21.8,3683,Walt Disney,Major Studio,11/6/2009,2009,November,11,Friday
+Men in Black: International,30035838,80001807,37.5,4224,Sony Pictures,Major Studio,6/14/2019,2019,June,6,Friday
+Madea's Family Reunion,30030661,63257940,47.5,2194,Lionsgate,Others,2/24/2006,2006,February,2,Friday
+Bullet Train,30030156,103368602,29,4357,Sony Pictures,Major Studio,8/5/2022,2022,August,8,Friday
+Scream,30018805,81641405,36.8,3664,Paramount Pictures,Major Studio,1/14/2022,2022,January,1,Friday
+The Purge: Anarchy,29816675,71962800,41.4,2805,Universal Pictures,Major Studio,7/18/2014,2014,July,7,Friday
+Elysium,29807393,93050117,32,3284,Sony Pictures,Major Studio,8/9/2013,2013,August,8,Friday
+Hercules,29800263,72688614,41,3595,Paramount Pictures,Major Studio,7/25/2014,2014,July,7,Friday
+Constantine,29769098,75976178,39.2,3006,Warner Bros.,Major Studio,2/18/2005,2005,February,2,Friday
+What Lies Beneath,29702959,155464351,19.1,2813,DreamWorks,Others,7/21/2000,2000,July,7,Friday
+The Flintstones,29688730,130531208,22.7,2498,Universal Pictures,Major Studio,5/27/1994,1994,May,5,Friday
+Dark Shadows,29685274,79727149,37.2,3755,Warner Bros.,Major Studio,5/11/2012,2012,May,5,Friday
+Daddy's Home 2,29651193,104029443,28.5,3575,Paramount Pictures,Major Studio,11/10/2017,2017,November,11,Friday
+Creed,29632823,109767581,27,3404,Warner Bros.,Major Studio,11/25/2015,2015,November,11,Wednesday
+Elemental,29602429,137233827,21.6,4035,Walt Disney,Major Studio,6/16/2023,2023,June,6,Friday
+Insidious: The Last Key,29581355,67745330,43.7,3116,Universal Pictures,Major Studio,1/5/2018,2018,January,1,Friday
+Justin Bieber: Never Say Never,29514054,73013910,40.4,3105,Paramount Pictures,Major Studio,2/11/2011,2011,February,2,Friday
+Ghostbusters II,29472894,112494738,26.2,2410,Sony Pictures,Major Studio,6/16/1989,1989,June,6,Friday
+Scooby-Doo 2: Monsters Unleashed,29438331,84216833,35,3312,Warner Bros.,Major Studio,3/26/2004,2004,March,3,Friday
+Indiana Jones and the Last Crusade,29355021,197171806,14.9,2327,Paramount Pictures,Major Studio,5/24/1989,1989,May,5,Wednesday
+A.I. Artificial Intelligence,29352630,78616689,37.3,3242,Warner Bros.,Major Studio,6/29/2001,2001,June,6,Friday
+Now You See Me,29350389,117723989,24.9,2925,Lionsgate,Others,5/31/2013,2013,May,5,Friday
+Beverly Hills Chihuahua,29300465,94514402,31,3215,Walt Disney,Major Studio,10/3/2008,2008,October,10,Friday
+Why Did I Get Married Too?,29289537,60095852,48.7,2155,Lionsgate,Others,4/2/2010,2010,April,4,Friday
+Think Like a Man Too,29241911,65182182,44.9,2225,Sony Pictures,Major Studio,6/20/2014,2014,June,6,Friday
+The Muppets,29239026,88631237,33,3440,Walt Disney,Major Studio,11/23/2011,2011,November,11,Wednesday
+The Lone Ranger,29210849,89302115,32.7,3904,Walt Disney,Major Studio,7/3/2013,2013,July,7,Wednesday
+Eagle Eye,29150721,101440743,28.7,3510,DreamWorks,Others,9/26/2008,2008,September,9,Friday
+Toy Story,29140617,191796233,15.2,2457,Walt Disney,Major Studio,11/22/1995,1995,November,11,Wednesday
+The Texas Chainsaw Massacre,29100000,80571655,36.1,3016,Warner Bros.,Major Studio,10/17/2003,2003,October,10,Friday
+Spy,29085719,110825712,26.2,3711,Walt Disney,Major Studio,6/5/2015,2015,June,6,Friday
+Terminator: Dark Fate,29033832,62253077,46.6,4086,Paramount Pictures,Major Studio,11/1/2019,2019,November,11,Friday
+Allegiant,29027348,66184051,43.9,3740,Lionsgate,Others,3/18/2016,2016,March,3,Friday
+Doctor Dolittle,29014324,144156605,20.1,2777,Walt Disney,Major Studio,6/26/1998,1998,June,6,Friday
+The Santa Clause 2,29008696,139236327,20.8,3350,Walt Disney,Major Studio,11/1/2002,2002,November,11,Friday
+Paranormal Activity 4,29003866,53885000,53.8,3412,Paramount Pictures,Major Studio,10/19/2012,2012,October,10,Friday
+Jackass Number Two,29002002,72778712,39.8,3059,Paramount Pictures,Major Studio,9/22/2006,2006,September,9,Friday
+Inside Man,28954945,88513495,32.7,2818,Universal Pictures,Major Studio,3/24/2006,2006,March,3,Friday
+Cast Away,28883406,233632142,12.4,2774,Walt Disney,Major Studio,12/22/2000,2000,December,12,Friday
+Non-Stop,28875635,92168600,31.3,3090,Universal Pictures,Major Studio,2/28/2014,2014,February,2,Friday
+Miss Peregrine's Home for Peculiar Children,28871140,87242834,33.1,3522,Walt Disney,Major Studio,9/30/2016,2016,September,9,Friday
+Edge of Tomorrow,28760246,100206256,28.7,3490,Warner Bros.,Major Studio,6/6/2014,2014,June,6,Friday
+Murder on the Orient Express,28681472,102826543,27.9,3341,Walt Disney,Major Studio,11/10/2017,2017,November,11,Friday
+Titanic,28638131,600683057,4.8,2674,Paramount Pictures,Major Studio,12/19/1997,1997,December,12,Friday
+Meet the Parents,28623300,166244045,17.2,2614,Universal Pictures,Major Studio,10/6/2000,2000,October,10,Friday
+Obsessed,28612730,68261644,41.9,2514,Sony Pictures,Major Studio,4/24/2009,2009,April,4,Friday
+The Expendables 2,28591370,85028192,33.6,3316,Lionsgate,Others,8/17/2012,2012,August,8,Friday
+Alita: Battle Angel,28525613,85838210,33.2,3790,Walt Disney,Major Studio,2/14/2019,2019,February,2,Thursday
+Boo! A Madea Halloween,28501448,73206343,38.9,2260,Lionsgate,Others,10/21/2016,2016,October,10,Friday
+Anchorman: The Legend of Ron Burgundy,28416365,85288303,33.3,3091,DreamWorks,Others,7/9/2004,2004,July,7,Friday
+Mama,28402310,71628180,39.6,2647,Universal Pictures,Major Studio,1/18/2013,2013,January,1,Friday
+Free Guy,28365416,121626598,23.3,4165,Walt Disney,Major Studio,8/13/2021,2021,August,8,Friday
+Nacho Libre,28309599,80197993,35.3,3070,Paramount Pictures,Major Studio,6/16/2006,2006,June,6,Friday
+Horrible Bosses,28302165,117538559,24.1,3040,Warner Bros.,Major Studio,7/8/2011,2011,July,7,Friday
+The Invisible Man,28205665,70410000,40.1,3610,Universal Pictures,Major Studio,2/28/2020,2020,February,2,Friday
+Erin Brockovich,28138465,125595205,22.4,2848,Universal Pictures,Major Studio,3/17/2000,2000,March,3,Friday
+Pacific Rim: Uprising,28116535,59874525,47,3708,Universal Pictures,Major Studio,3/23/2018,2018,March,3,Friday
+Starsky & Hutch,28103367,88237754,31.8,3185,Warner Bros.,Major Studio,3/5/2004,2004,March,3,Friday
+Sin City,28100000,74103820,37.9,3230,The Weinstein Company,Others,4/1/2005,2005,April,4,Friday
+Back to the Future Part II,27835125,118450002,23.5,1865,Universal Pictures,Major Studio,11/22/1989,1989,November,11,Wednesday
+Hairspray,27800000,118871849,23.4,3121,Warner Bros.,Major Studio,7/20/2007,2007,July,7,Friday
+The Matrix,27788331,171479930,16.2,2849,Warner Bros.,Major Studio,3/31/1999,1999,March,3,Wednesday
+He's Just Not That Into You,27785487,93953653,29.6,3175,Warner Bros.,Major Studio,2/6/2009,2009,February,2,Friday
+Mamma Mia!,27751240,144130063,19.2,2976,Universal Pictures,Major Studio,7/18/2008,2008,July,7,Friday
+Big Momma's House 2,27736056,70165972,39.5,3261,Walt Disney,Major Studio,1/27/2006,2006,January,1,Friday
+Jarhead,27726210,62658220,44.2,2411,Universal Pictures,Major Studio,11/4/2005,2005,November,11,Friday
+Along Came Polly,27721185,88097164,31.5,2984,Universal Pictures,Major Studio,1/16/2004,2004,January,1,Friday
+Wild Wild West,27687484,113804681,24.3,3342,Warner Bros.,Major Studio,6/30/1999,1999,June,6,Wednesday
+Daddy Day Care,27623580,104297061,26.5,3370,Revolution Studios,Others,5/9/2003,2003,May,5,Friday
+The Ugly Truth,27605576,88915214,31,2882,Sony Pictures,Major Studio,7/24/2009,2009,July,7,Friday
+Cheaper by the Dozen,27557647,138614544,19.9,3298,Walt Disney,Major Studio,12/25/2003,2003,December,12,Thursday
+Wonder,27547866,132422809,20.8,3096,Lionsgate,Others,11/17/2017,2017,November,11,Friday
+The Devil Wears Prada,27537244,124740460,22.1,2847,Walt Disney,Major Studio,6/30/2006,2006,June,6,Friday
+Space Jam,27528529,90418342,30.4,2650,Warner Bros.,Major Studio,11/15/1996,1996,November,11,Friday
+After Earth,27520040,60522097,45.5,3401,Sony Pictures,Major Studio,5/31/2013,2013,May,5,Friday
+Beowulf,27515871,82280579,33.4,3153,Paramount Pictures,Major Studio,11/16/2007,2007,November,11,Friday
+42,27487144,95020213,28.9,3003,Warner Bros.,Major Studio,4/12/2013,2013,April,4,Friday
+Bedtime Stories,27450296,110101975,24.9,3681,Walt Disney,Major Studio,12/25/2008,2008,December,12,Thursday
+The Final Destination,27408309,66477700,41.2,3121,Warner Bros.,Major Studio,8/28/2009,2009,August,8,Friday
+Jumper,27354808,80172128,34.1,3428,Walt Disney,Major Studio,2/14/2008,2008,February,2,Thursday
+Journey 2: The Mysterious Island,27335363,103860290,26.3,3470,Warner Bros.,Major Studio,2/10/2012,2012,February,2,Friday
+The Rugrats Movie,27321470,100494675,27.2,2782,Paramount Pictures,Major Studio,11/20/1998,1998,November,11,Friday
+Real Steel,27319677,85468508,32,3440,Walt Disney,Major Studio,10/7/2011,2011,October,10,Friday
+Les Misérables,27281735,148809770,18.3,2814,Universal Pictures,Major Studio,12/25/2012,2012,December,12,Tuesday
+Night School,27257615,77339130,35.2,3010,Universal Pictures,Major Studio,9/28/2018,2018,September,9,Friday
+Encanto,27206494,96093622,28.3,3980,Walt Disney,Major Studio,11/24/2021,2021,November,11,Wednesday
+Jack the Giant Slayer,27202226,65187603,41.7,3525,Warner Bros.,Major Studio,3/1/2013,2013,March,3,Friday
+The Bourne Identity,27118640,121661683,22.3,2638,Universal Pictures,Major Studio,6/14/2002,2002,June,6,Friday
+A Madea Family Funeral,27062332,73257045,36.9,2442,Lionsgate,Others,3/1/2019,2019,March,3,Friday
+2 Guns,27059130,75612460,35.8,3025,Universal Pictures,Major Studio,8/2/2013,2013,August,8,Friday
+Terminator Genisys,27018486,89760956,30.1,3758,Paramount Pictures,Major Studio,7/1/2015,2015,July,7,Wednesday
+Ender's Game,27017351,61737191,43.8,3407,Lionsgate,Others,11/1/2013,2013,November,11,Friday
+The Departed,26887467,132384315,20.3,3017,Warner Bros.,Major Studio,10/6/2006,2006,October,10,Friday
+Alice Through the Looking Glass,26858726,77041381,34.9,3763,Walt Disney,Major Studio,5/27/2016,2016,May,5,Friday
+Underworld: Evolution,26857181,62318875,43.1,3207,Sony Pictures,Major Studio,1/20/2006,2006,January,1,Friday
+The Curious Case of Benjamin Button,26853816,127509326,21.1,2988,Paramount Pictures,Major Studio,12/25/2008,2008,December,12,Thursday
+Zombieland: Double Tap,26803104,73123082,36.6,3468,Sony Pictures,Major Studio,10/18/2019,2019,October,10,Friday
+Knives Out,26769548,165363234,16.2,3461,Lionsgate,Others,11/27/2019,2019,November,11,Wednesday
+Flubber,26725207,92977226,28.7,2641,Walt Disney,Major Studio,11/26/1997,1997,November,11,Wednesday
+Dawn of the Dead,26722575,59020957,45.3,2745,Universal Pictures,Major Studio,3/19/2004,2004,March,3,Friday
+The Sixth Sense,26681262,293506292,9.1,2161,Walt Disney,Major Studio,8/6/1999,1999,August,8,Friday
+Resident Evil: Afterlife,26650264,60128566,44.3,3203,Sony Pictures,Major Studio,9/10/2010,2010,September,9,Friday
+The House with a Clock in Its Walls,26608020,68549695,38.8,3592,Universal Pictures,Major Studio,9/21/2018,2018,September,9,Friday
+The Campaign,26588460,86907746,30.6,3205,Warner Bros.,Major Studio,8/10/2012,2012,August,8,Friday
+Spy Kids,26546881,112719001,23.6,3104,Paramount Pictures,Major Studio,3/30/2001,2001,March,3,Friday
+The Pursuit of Happyness,26541709,163566459,16.2,2852,Sony Pictures,Major Studio,12/15/2006,2006,December,12,Friday
+Crazy Rich Asians,26510140,174532921,15.2,3384,Warner Bros.,Major Studio,8/15/2018,2018,August,8,Wednesday
+Borat,26455463,128505958,20.6,837,Walt Disney,Major Studio,11/3/2006,2006,November,11,Friday
+All Eyez on Me,26435354,44922302,58.8,2471,Lionsgate,Others,6/16/2017,2017,June,6,Friday
+We're the Millers,26419396,150394119,17.6,3260,Warner Bros.,Major Studio,8/7/2013,2013,August,8,Wednesday
+Hollow Man,26414386,73209340,36.1,2956,Sony Pictures,Major Studio,8/4/2000,2000,August,8,Friday
+Don't Breathe,26411706,89217875,29.6,3051,Sony Pictures,Major Studio,8/26/2016,2016,August,8,Friday
+Halloween,26362367,58272029,45.2,3472,,Others,8/31/2007,2007,August,8,Friday
+Beverly Hills Cop II,26348555,153665036,17.2,2326,Paramount Pictures,Major Studio,5/20/1987,1987,May,5,Wednesday
+The Curse of La Llorona,26347631,54733739,48.1,3372,Warner Bros.,Major Studio,4/19/2019,2019,April,4,Friday
+Bridesmaids,26247410,169106725,15.5,2918,Universal Pictures,Major Studio,5/13/2011,2011,May,5,Friday
+Anchorman 2: The Legend Continues,26232425,125168368,21,3507,Paramount Pictures,Major Studio,12/18/2013,2013,December,12,Wednesday
+Bolt,26223128,114053579,23,3651,Walt Disney,Major Studio,11/21/2008,2008,November,11,Friday
+The Suicide Squad,26205415,55817425,47,4002,Warner Bros.,Major Studio,8/6/2021,2021,August,8,Friday
+GoldenEye,26205007,106429941,24.6,2667,MGM Amazon Prime,Others,11/17/1995,1995,November,11,Friday
+The Golden Compass,26125000,70107728,37.3,3528,Warner Bros.,Major Studio,12/7/2007,2007,December,12,Friday
+The Help,26044590,169708112,15.4,2534,Walt Disney,Major Studio,8/10/2011,2011,August,8,Wednesday
+Happy Death Day,26039025,55683845,46.8,3149,Universal Pictures,Major Studio,10/13/2017,2017,October,10,Friday
+The Perfect Guy,25888154,57027435,45.4,2221,Sony Pictures,Major Studio,9/11/2015,2015,September,9,Friday
+True Lies,25869770,146282411,17.7,2368,Walt Disney,Major Studio,7/15/1994,1994,July,7,Friday
+Tropic Thunder,25812796,110515313,23.4,3319,DreamWorks,Others,8/13/2008,2008,August,8,Wednesday
+Evil Dead,25775847,54239856,47.5,3025,Sony Pictures,Major Studio,4/5/2013,2013,April,4,Friday
+Rocketman,25725722,96368160,26.7,3610,Paramount Pictures,Major Studio,5/31/2019,2019,May,5,Friday
+Miami Vice,25723815,63450470,40.5,3021,Universal Pictures,Major Studio,7/28/2006,2006,July,7,Friday
+Captain Phillips,25718314,107100855,24,3020,Sony Pictures,Major Studio,10/11/2013,2013,October,10,Friday
+Fantastic Four,25685737,56117548,45.8,3995,Walt Disney,Major Studio,8/7/2015,2015,August,8,Friday
+The A-Team,25669455,77222099,33.2,3535,Walt Disney,Major Studio,6/11/2010,2010,June,6,Friday
+Big Momma's House,25661041,117559438,21.8,2802,Walt Disney,Major Studio,6/2/2000,2000,June,6,Friday
+About Last Night,25649011,48637684,52.7,2253,Sony Pictures,Major Studio,2/14/2014,2014,February,2,Friday
+V for Vendetta,25642340,70511035,36.4,3365,Warner Bros.,Major Studio,3/17/2006,2006,March,3,Friday
+Robin Hood: Prince of Thieves,25625602,165493908,15.5,2369,Warner Bros.,Major Studio,6/14/1991,1991,June,6,Friday
+Son of God,25601865,59700064,42.9,3260,Walt Disney,Major Studio,2/28/2014,2014,February,2,Friday
+Kill Bill: Vol. 2,25600000,66208183,38.7,2971,Paramount Pictures,Major Studio,4/16/2004,2004,April,4,Friday
+Total Recall,25577758,58877969,43.4,3601,Sony Pictures,Major Studio,8/3/2012,2012,August,8,Friday
+Battleship,25534825,65422625,39,3690,Universal Pictures,Major Studio,5/18/2012,2012,May,5,Friday
+Total Recall,25533700,119394840,21.4,2060,Sony Pictures,Major Studio,6/1/1990,1990,June,6,Friday
+Penguins of Madagascar,25447444,83850911,30.4,3764,Walt Disney,Major Studio,11/26/2014,2014,November,11,Wednesday
+The Visit,25427560,65206105,39,3069,Universal Pictures,Major Studio,9/11/2015,2015,September,9,Friday
+The Nutty Professor,25411725,128814019,19.7,2115,Universal Pictures,Major Studio,6/28/1996,1996,June,6,Friday
+The Firm,25400000,158348367,16,2393,Paramount Pictures,Major Studio,7/2/1993,1993,July,7,Friday
+Teenage Mutant Ninja Turtles,25398367,135265915,18.8,2006,Warner Bros.,Major Studio,3/30/1990,1990,March,3,Friday
+Madea's Witness Protection,25390575,65653242,38.7,2161,Lionsgate,Others,6/29/2012,2012,June,6,Friday
+Gnomeo & Juliet,25356909,99967670,25.4,2994,Walt Disney,Major Studio,2/11/2011,2011,February,2,Friday
+Apollo 13,25353380,172071312,14.7,2197,Universal Pictures,Major Studio,6/30/1995,1995,June,6,Friday
+Indiana Jones and the Temple of Doom,25337110,179870271,14.1,1687,Paramount Pictures,Major Studio,5/23/1984,1984,May,5,Wednesday
+Gone in 60 Seconds,25336048,101648571,24.9,3006,Walt Disney,Major Studio,6/9/2000,2000,June,6,Friday
+Underworld: Awakening,25306725,62321039,40.6,3078,Sony Pictures,Major Studio,1/20/2012,2012,January,1,Friday
+Public Enemies,25271675,97104620,26,3334,Universal Pictures,Major Studio,7/1/2009,2009,July,7,Wednesday
+Patch Adams,25262280,135026902,18.7,2712,Universal Pictures,Major Studio,12/25/1998,1998,December,12,Friday
+Date Night,25207599,98711404,25.5,3374,Walt Disney,Major Studio,4/9/2010,2010,April,4,Friday
+Tomorrow Never Dies,25143007,125304276,20.1,2807,MGM Amazon Prime,Others,12/19/1997,1997,December,12,Friday
+Meet the Robinsons,25123781,97822171,25.7,3413,Walt Disney,Major Studio,3/30/2007,2007,March,3,Friday
+Master and Commander: The Far Side of the World,25105990,93927920,26.7,3101,Walt Disney,Major Studio,11/14/2003,2003,November,11,Friday
+The Rock,25069525,134069511,18.7,2392,Walt Disney,Major Studio,6/7/1996,1996,June,6,Friday
+Madea's Big Happy Family,25068677,53345287,47,2288,Lionsgate,Others,4/22/2011,2011,April,4,Friday
+Dr. Dolittle 2,25037039,112952899,22.2,3049,Walt Disney,Major Studio,6/22/2001,2001,June,6,Friday
+Vanilla Sky,25015518,100618344,24.9,2742,Paramount Pictures,Major Studio,12/14/2001,2001,December,12,Friday
+Peter Rabbit,25010928,115253424,21.7,3725,Sony Pictures,Major Studio,2/9/2018,2018,February,2,Friday
+Jack and Jill,25003575,74158157,33.7,3438,Sony Pictures,Major Studio,11/11/2011,2011,November,11,Friday
+Skyscraper,24905015,68420120,36.4,3782,Universal Pictures,Major Studio,7/13/2018,2018,July,7,Friday
+Flight,24900566,93772375,26.6,1884,Paramount Pictures,Major Studio,11/2/2012,2012,November,11,Friday
+White House Down,24852258,73103784,34,3222,Sony Pictures,Major Studio,6/28/2013,2013,June,6,Friday
+A Good Day to Die Hard,24834845,67349198,36.9,3553,Walt Disney,Major Studio,2/14/2013,2013,February,2,Thursday
+True Grit,24830443,171243005,14.5,3047,Paramount Pictures,Major Studio,12/22/2010,2010,December,12,Wednesday
+The Call of the Wild,24791624,62342368,39.8,3752,Walt Disney,Major Studio,2/21/2020,2020,February,2,Friday
+The Other Woman,24763752,83911193,29.5,3205,Walt Disney,Major Studio,4/25/2014,2014,April,4,Friday
+Predators,24760882,52000688,47.6,2669,Walt Disney,Major Studio,7/9/2010,2010,July,7,Friday
+Zombieland,24733155,75590286,32.7,3036,Sony Pictures,Major Studio,10/2/2009,2009,October,10,Friday
+10 Cloverfield Lane,24727437,72082998,34.3,3391,Paramount Pictures,Major Studio,3/11/2016,2016,March,3,Friday
+Taken,24717037,145000989,17,3183,Walt Disney,Major Studio,1/30/2009,2009,January,1,Friday
+The Accountant,24710273,86260045,28.6,3332,Warner Bros.,Major Studio,10/14/2016,2016,October,10,Friday
+Collateral,24701458,101005703,24.5,3188,DreamWorks,Others,8/6/2004,2004,August,8,Friday
+Congo,24642539,81022101,30.4,2649,Paramount Pictures,Major Studio,6/9/1995,1995,June,6,Friday
+The Butler,24637312,116632095,21.1,2933,The Weinstein Company,Others,8/16/2013,2013,August,8,Friday
+The Predator,24632284,51024708,48.3,4037,Walt Disney,Major Studio,9/14/2018,2018,September,9,Friday
+Flightplan,24629938,89707299,27.5,3424,Walt Disney,Major Studio,9/23/2005,2005,September,9,Friday
+Knowing,24604751,79957634,30.8,3332,Lionsgate,Others,3/20/2009,2009,March,3,Friday
+Christopher Robin,24585139,99215042,24.8,3602,Walt Disney,Major Studio,8/3/2018,2018,August,8,Friday
+Eraser,24566446,101295562,24.2,2410,Warner Bros.,Major Studio,6/21/1996,1996,June,6,Friday
+The Girl on the Train,24536265,75395035,32.5,3144,Universal Pictures,Major Studio,10/7/2016,2016,October,10,Friday
+The Emoji Movie,24531923,86089513,28.5,4075,Sony Pictures,Major Studio,7/28/2017,2017,July,7,Friday
+Evil Dead Rise,24504315,67233054,36.4,3402,Warner Bros.,Major Studio,4/21/2023,2023,April,4,Friday
+Pet Sematary,24502775,54724696,44.8,3585,Paramount Pictures,Major Studio,4/5/2019,2019,April,4,Friday
+Act of Valor,24476632,70012847,35,3039,Relativity Media,Others,2/24/2012,2012,February,2,Friday
+Forrest Gump,24450602,329694499,7.4,1595,Paramount Pictures,Major Studio,7/6/1994,1994,July,7,Wednesday
+Mean Girls,24432195,86058055,28.4,2839,Paramount Pictures,Major Studio,4/30/2004,2004,April,4,Friday
+Failure to Launch,24411322,88715192,27.5,3057,Paramount Pictures,Major Studio,3/10/2006,2006,March,3,Friday
+Race to Witch Mountain,24402214,67172594,36.3,3187,Walt Disney,Major Studio,3/13/2009,2009,March,3,Friday
+Contraband,24349815,66528000,36.6,2863,Universal Pictures,Major Studio,1/13/2012,2012,January,1,Friday
+The Chronicles of Riddick,24289165,57761012,42,2757,Universal Pictures,Major Studio,6/11/2004,2004,June,6,Friday
+The Haunted Mansion,24278410,75847266,32,3122,Walt Disney,Major Studio,11/26/2003,2003,November,11,Wednesday
+The Last Samurai,24271354,111127263,21.8,2908,Warner Bros.,Major Studio,12/5/2003,2003,December,12,Friday
+TMNT,24255205,54149098,44.8,3110,Warner Bros.,Major Studio,3/23/2007,2007,March,3,Friday
+No Good Deed,24250283,52543632,46.2,2175,Sony Pictures,Major Studio,9/12/2014,2014,September,9,Friday
+Barbershop 2: Back in Business,24241612,65111277,37.2,2711,MGM Amazon Prime,Others,2/6/2004,2004,February,2,Friday
+"Me, Myself & Irene",24209385,90570999,26.7,3019,Walt Disney,Major Studio,6/23/2000,2000,June,6,Friday
+The Addams Family,24203754,113502426,21.3,2411,Paramount Pictures,Major Studio,11/22/1991,1991,November,11,Friday
+Coach Carter,24182961,67264877,36,2524,Paramount Pictures,Major Studio,1/14/2005,2005,January,1,Friday
+Maze Runner: The Death Cure,24167011,58032443,41.6,3787,Walt Disney,Major Studio,1/26/2018,2018,January,1,Friday
+Warcraft,24166110,47365290,51,3400,Universal Pictures,Major Studio,6/10/2016,2016,June,6,Friday
+Con Air,24131738,101117573,23.9,2824,Walt Disney,Major Studio,6/6/1997,1997,June,6,Friday
+Exodus: Gods and Kings,24115934,65014513,37.1,3503,Walt Disney,Major Studio,12/12/2014,2014,December,12,Friday
+White Noise,24113565,56386759,42.8,2261,Universal Pictures,Major Studio,1/7/2005,2005,January,1,Friday
+21,24105943,81159365,29.7,2648,Sony Pictures,Major Studio,3/28/2008,2008,March,3,Friday
+The Conjuring: The Devil Made Me Do It,24104332,65631050,36.7,3102,Warner Bros.,Major Studio,6/4/2021,2021,June,6,Friday
+Arrival,24074047,100546139,23.9,2317,Paramount Pictures,Major Studio,11/11/2016,2016,November,11,Friday
+Tower Heist,24025190,78046570,30.8,3367,Universal Pictures,Major Studio,11/4/2011,2011,November,11,Friday
+Pixels,24011616,78747585,30.5,3723,Sony Pictures,Major Studio,7/24/2015,2015,July,7,Friday
+The Chronicles of Narnia: The Voyage of the Dawn Treader,24005069,104386950,23,3555,Walt Disney,Major Studio,12/10/2010,2010,December,12,Friday
+Monster-in-Law,24000000,82931301,28.9,3424,Warner Bros.,Major Studio,5/13/2005,2005,May,5,Friday
+The Fast and the Furious: Tokyo Drift,23973840,62514415,38.4,3027,Universal Pictures,Major Studio,6/16/2006,2006,June,6,Friday
+The Bad Guys,23950245,97233630,24.6,4008,Universal Pictures,Major Studio,4/22/2022,2022,April,4,Friday
+Fahrenheit 9/11,23920637,119194771,20.1,868,Lionsgate,Others,6/23/2004,2004,June,6,Wednesday
+Captain Underpants: The First Epic Movie,23851539,73921000,32.3,3434,Walt Disney,Major Studio,6/2/2017,2017,June,6,Friday
+Bad Moms,23817340,113257297,21,3215,STX Entertainment,Others,7/29/2016,2016,July,7,Friday
+The Town,23808032,92186262,25.8,2861,Warner Bros.,Major Studio,9/17/2010,2010,September,9,Friday
+How to Lose a Guy in 10 Days,23774850,105813373,22.5,2923,Paramount Pictures,Major Studio,2/7/2003,2003,February,2,Friday
+Rise of the Guardians,23773465,103412758,23,3653,DreamWorks,Others,11/21/2012,2012,November,11,Wednesday
+Paul Blart: Mall Cop 2,23762435,71038190,33.4,3633,Sony Pictures,Major Studio,4/17/2015,2015,April,4,Friday
+The Fugitive,23758855,183875760,12.9,2340,Warner Bros.,Major Studio,8/6/1993,1993,August,8,Friday
+Diary of a Wimpy Kid: Rodrick Rules,23751502,52698535,45.1,3167,Walt Disney,Major Studio,3/25/2011,2011,March,3,Friday
+17 Again,23722310,64167069,37,3255,Warner Bros.,Major Studio,4/17/2009,2009,April,4,Friday
+Fury,23702421,85817906,27.6,3173,Sony Pictures,Major Studio,10/17/2014,2014,October,10,Friday
+Resident Evil: Extinction,23678580,50648679,46.8,2828,Sony Pictures,Major Studio,9/21/2007,2007,September,9,Friday
+Tomb Raider,23633317,58250803,40.6,3854,Warner Bros.,Major Studio,3/16/2018,2018,March,3,Friday
+The Black Phone,23633220,90123230,26.2,3150,Universal Pictures,Major Studio,6/24/2022,2022,June,6,Friday
+Open Season,23624548,85105259,27.8,3833,Sony Pictures,Major Studio,9/29/2006,2006,September,9,Friday
+Goosebumps,23618556,80080379,29.5,3501,Sony Pictures,Major Studio,10/16/2015,2015,October,10,Friday
+The Boss,23586645,63285885,37.3,3480,Universal Pictures,Major Studio,4/8/2016,2016,April,4,Friday
+Dinner for Schmucks,23527839,73026337,32.2,2911,DreamWorks,Others,7/30/2010,2010,July,7,Friday
+Mary Poppins Returns,23523121,171958438,13.7,4090,Walt Disney,Major Studio,12/19/2018,2018,December,12,Wednesday
+Dracula Untold,23514615,56280355,41.8,2885,Universal Pictures,Major Studio,10/10/2014,2014,October,10,Friday
+The Amityville Horror,23507007,65233369,36,3323,MGM Amazon Prime,Others,4/15/2005,2005,April,4,Friday
+Be Cool,23450212,56046979,41.8,3216,MGM Amazon Prime,Others,3/4/2005,2005,March,3,Friday
+I Can Do Bad All by Myself,23446785,51733921,45.3,2255,Lionsgate,Others,9/11/2009,2009,September,9,Friday
+Save the Last Dance,23444930,91057006,25.8,2230,Paramount Pictures,Major Studio,1/12/2001,2001,January,1,Friday
+Once Upon a Time in Mexico,23424118,56359780,41.6,3282,Sony Pictures,Major Studio,9/12/2003,2003,September,9,Friday
+Face/Off,23387530,112276146,20.8,2621,Paramount Pictures,Major Studio,6/27/1997,1997,June,6,Friday
+The Taking of Pelham 123,23373102,65452312,35.7,3074,Sony Pictures,Major Studio,6/12/2009,2009,June,6,Friday
+The Polar Express,23323463,162775358,14.3,3650,Warner Bros.,Major Studio,11/10/2004,2004,November,11,Wednesday
+Mortal Kombat,23302503,42326031,55,3073,Warner Bros.,Major Studio,4/23/2021,2021,April,4,Friday
+Mortal Kombat,23283887,70454098,33,2421,Warner Bros.,Major Studio,8/18/1995,1995,August,8,Friday
+Cocaine Bear,23260790,64388510,36.1,3534,Universal Pictures,Major Studio,2/24/2023,2023,February,2,Friday
+Pineapple Express,23245025,87341380,26.6,3072,Sony Pictures,Major Studio,8/6/2008,2008,August,8,Wednesday
+Alvin and the Chipmunks: Chipwrecked,23244744,133110742,17.5,3723,Walt Disney,Major Studio,12/16/2011,2011,December,12,Friday
+Eragon,23239907,75030163,31,3020,Walt Disney,Major Studio,12/15/2006,2006,December,12,Friday
+This Is It,23234394,72091016,32.2,3481,Sony Pictures,Major Studio,10/28/2009,2009,October,10,Wednesday
+Hellboy,23172440,59623958,38.9,3028,Revolution Studios,Others,4/2/2004,2004,April,4,Friday
+Double Jeopardy,23162542,116741558,19.8,2547,Paramount Pictures,Major Studio,9/24/1999,1999,September,9,Friday
+Jackass Forever,23154388,57743451,40.1,3604,Paramount Pictures,Major Studio,2/4/2022,2022,February,2,Friday
+The Mask,23117068,119938730,19.3,2360,Warner Bros.,Major Studio,7/29/1994,1994,July,7,Friday
+Star Trek: Generations,23116394,75671125,30.6,2659,Paramount Pictures,Major Studio,11/18/1994,1994,November,11,Friday
+Eat Pray Love,23104523,80574010,28.7,3082,Sony Pictures,Major Studio,8/13/2010,2010,August,8,Friday
+The League of Extraordinary Gentlemen,23075892,66465204,34.7,3002,Walt Disney,Major Studio,7/11/2003,2003,July,7,Friday
+Smallfoot,23045635,83240103,27.7,4131,Warner Bros.,Major Studio,9/28/2018,2018,September,9,Friday
+Resident Evil: Apocalypse,23036273,51201453,45,3284,Sony Pictures,Major Studio,9/10/2004,2004,September,9,Friday
+Star Wars: Episode VI - Return of the Jedi,23019618,252583617,9.1,1002,Walt Disney,Major Studio,5/25/1983,1983,May,5,Wednesday
+27 Dresses,23007725,76808654,30,3057,Walt Disney,Major Studio,1/18/2008,2008,January,1,Friday
+The Haunting in Connecticut,23004765,55389516,41.5,2732,Lionsgate,Others,3/27/2009,2009,March,3,Friday
+DC League of Super-Pets,23003441,93657117,24.6,4314,Warner Bros.,Major Studio,7/29/2022,2022,July,7,Friday
+The Princess Diaries 2: Royal Engagement,22956453,95170481,24.1,3472,Walt Disney,Major Studio,8/11/2004,2004,August,8,Wednesday
+The Game Plan,22950971,90648202,25.3,3103,Walt Disney,Major Studio,9/28/2007,2007,September,9,Friday
+Vantage Point,22874936,72266306,31.6,3149,Sony Pictures,Major Studio,2/22/2008,2008,February,2,Friday
+Jack Reacher: Never Go Back,22872490,58697076,39,3780,Paramount Pictures,Major Studio,10/21/2016,2016,October,10,Friday
+The Princess Diaries,22862269,108248956,21.1,2537,Walt Disney,Major Studio,8/3/2001,2001,August,8,Friday
+Mission to Mars,22855247,60883407,37.5,3054,Walt Disney,Major Studio,3/10/2000,2000,March,3,Friday
+The Interpreter,22822455,72708161,31.4,2758,Universal Pictures,Major Studio,4/22/2005,2005,April,4,Friday
+Jackass: The Movie,22763437,64255312,35.4,2509,Paramount Pictures,Major Studio,10/25/2002,2002,October,10,Friday
+Man on Fire,22751490,77911774,29.2,2980,Walt Disney,Major Studio,4/21/2004,2004,April,4,Wednesday
+Mulan,22745143,120620254,18.9,2888,Walt Disney,Major Studio,6/19/1998,1998,June,6,Friday
+Rugrats in Paris,22718184,76507756,29.7,2934,Paramount Pictures,Major Studio,11/17/2000,2000,November,11,Friday
+Insidious: Chapter 3,22692741,52218558,43.5,3002,Universal Pictures,Major Studio,6/5/2015,2015,June,6,Friday
+Unstoppable,22688457,81562942,27.8,3207,Walt Disney,Major Studio,11/12/2010,2010,November,11,Friday
+Funny People,22657780,51855045,43.7,3007,Universal Pictures,Major Studio,7/31/2009,2009,July,7,Friday
+Black Mass,22635037,62575678,36.2,3188,Warner Bros.,Major Studio,9/18/2015,2015,September,9,Friday
+Poltergeist,22620386,47425125,47.7,3240,Walt Disney,Major Studio,5/22/2015,2015,May,5,Friday
+The Time Machine,22610437,56832494,39.8,2944,DreamWorks,Others,3/8/2002,2002,March,3,Friday
+Smile,22609925,105935048,21.3,3645,Paramount Pictures,Major Studio,9/30/2022,2022,September,9,Friday
+Bridge to Terabithia,22564612,82272442,27.4,3139,Walt Disney,Major Studio,2/16/2007,2007,February,2,Friday
+Training Day,22550788,76631907,29.4,2712,Warner Bros.,Major Studio,10/5/2001,2001,October,10,Friday
+Dick Tracy,22543911,103738726,21.7,2332,Walt Disney,Major Studio,6/15/1990,1990,June,6,Friday
+Saw 3D,22530123,45710178,49.3,2808,Lionsgate,Others,10/29/2010,2010,October,10,Friday
+The Mask of Zorro,22525855,94095523,23.9,2515,Sony Pictures,Major Studio,7/17/1998,1998,July,7,Friday
+Heaven Is for Real,22522221,91443253,24.6,2417,Sony Pictures,Major Studio,4/16/2014,2014,April,4,Wednesday
+The Lucky One,22518358,60457138,37.2,3155,Warner Bros.,Major Studio,4/20/2012,2012,April,4,Friday
+Shallow Hal,22518295,70839203,31.8,2770,Walt Disney,Major Studio,11/9/2001,2001,November,11,Friday
+Star Wars: Episode I - The Phantom Menace,22469932,43456382,51.7,2655,Walt Disney,Major Studio,2/10/2012,2012,February,2,Friday
+2012 3D Release,22469932,43456382,51.7,2655,Walt Disney,Major Studio,2/10/2012,2012,February,2,Friday
+Life of Pi,22451514,124987023,18,2927,Walt Disney,Major Studio,11/21/2012,2012,November,11,Wednesday
+The Social Network,22445653,96962694,23.2,2771,Sony Pictures,Major Studio,10/1/2010,2010,October,10,Friday
+The Patriot,22413710,113330342,19.8,3061,Sony Pictures,Major Studio,6/28/2000,2000,June,6,Wednesday
+Contagion,22403596,75658097,29.6,3222,Warner Bros.,Major Studio,9/9/2011,2011,September,9,Friday
+Now You See Me 2,22383146,65075540,34.4,3232,Lionsgate,Others,6/10/2016,2016,June,6,Friday
+Walk the Line,22347341,119519402,18.7,2961,Walt Disney,Major Studio,11/18/2005,2005,November,11,Friday
+The General's Daughter,22332053,102705852,21.7,2856,Paramount Pictures,Major Studio,6/18/1999,1999,June,6,Friday
+Sing 2,22326230,162790990,13.7,3892,Universal Pictures,Major Studio,12/22/2021,2021,December,12,Wednesday
+Planes,22232291,90288712,24.6,3702,Walt Disney,Major Studio,8/9/2013,2013,August,8,Friday
+Disturbia,22224982,80209692,27.7,2925,DreamWorks,Others,4/13/2007,2007,April,4,Friday
+"Legally Blonde 2: Red, White & Blonde",22220670,90186328,24.6,3350,MGM Amazon Prime,Others,7/2/2003,2003,July,7,Wednesday
+Monster House,22217226,73661010,30.2,3553,Sony Pictures,Major Studio,7/21/2006,2006,July,7,Friday
+Freaky Friday,22203007,110230332,20.1,2954,Walt Disney,Major Studio,8/6/2003,2003,August,8,Wednesday
+Kill Bill: Vol. 1,22200000,70099045,31.7,3102,Paramount Pictures,Major Studio,10/10/2003,2003,October,10,Friday
+Die Hard with a Vengeance,22162245,100012499,22.2,2525,Walt Disney,Major Studio,5/19/1995,1995,May,5,Friday
+Poseidon,22155410,60674817,36.5,3555,Warner Bros.,Major Studio,5/12/2006,2006,May,5,Friday
+Diary of a Wimpy Kid,22126166,64003625,34.6,3077,Walt Disney,Major Studio,3/19/2010,2010,March,3,Friday
+Ghost Rider: Spirit of Vengeance,22115334,51774002,42.7,3174,Sony Pictures,Major Studio,2/17/2012,2012,February,2,Friday
+It's Complicated,22100820,112735375,19.6,2887,Universal Pictures,Major Studio,12/25/2009,2009,December,12,Friday
+Ladder 49,22088204,74541707,29.6,3260,Walt Disney,Major Studio,10/1/2004,2004,October,10,Friday
+Road to Perdition,22079481,104454762,21.1,1797,DreamWorks,Others,7/12/2002,2002,July,7,Friday
+Starship Troopers,22058773,54814377,40.2,2971,Sony Pictures,Major Studio,11/7/1997,1997,November,11,Friday
+Star Trek: Insurrection,22052836,70187658,31.4,2620,Paramount Pictures,Major Studio,12/11/1998,1998,December,12,Friday
+Chronicle,22004098,64575175,34.1,2907,Walt Disney,Major Studio,2/3/2012,2012,February,2,Friday
+The Monuments Men,22003433,78031620,28.2,3083,Sony Pictures,Major Studio,2/7/2014,2014,February,2,Friday
+Candyman,22001750,61186570,36,3569,Universal Pictures,Major Studio,8/27/2021,2021,August,8,Friday
+Star Wars: Episode V - The Empire Strikes Back,21975993,67597694,32.5,2111,Walt Disney,Major Studio,2/21/1997,1997,February,2,Friday
+1997 Special Edition,21975993,67597694,32.5,2111,Walt Disney,Major Studio,2/21/1997,1997,February,2,Friday
+Hide and Seek,21959233,51100486,43,3005,Walt Disney,Major Studio,1/28/2005,2005,January,1,Friday
+Diary of a Mad Black Woman,21905089,50633099,43.3,1483,Lionsgate,Others,2/25/2005,2005,February,2,Friday
+Inspector Gadget,21889138,97403112,22.5,2814,Walt Disney,Major Studio,7/23/1999,1999,July,7,Friday
+Unknown,21856389,63686397,34.3,3043,Warner Bros.,Major Studio,2/18/2011,2011,February,2,Friday
+Dolittle,21844045,77047065,28.4,4155,Universal Pictures,Major Studio,1/17/2020,2020,January,1,Friday
+Stomp the Yard,21833312,61356221,35.6,2051,Sony Pictures,Major Studio,1/12/2007,2007,January,1,Friday
+Notting Hill,21811180,116089678,18.8,2747,Universal Pictures,Major Studio,5/28/1999,1999,May,5,Friday
+Lara Croft: Tomb Raider - The Cradle of Life,21783641,65660196,33.2,3222,Paramount Pictures,Major Studio,7/25/2003,2003,July,7,Friday
+RED,21761408,90380162,24.1,3255,Lionsgate,Others,10/15/2010,2010,October,10,Friday
+Neighbors 2: Sorority Rising,21760405,55455765,39.2,3384,Universal Pictures,Major Studio,5/20/2016,2016,May,5,Friday
+Underworld,21753759,51970690,41.9,2915,Sony Pictures,Major Studio,9/19/2003,2003,September,9,Friday
+Die Hard 2,21744661,117540947,18.5,2507,Walt Disney,Major Studio,7/6/1990,1990,July,7,Friday
+Texas Chainsaw,21744470,34341945,63.3,2654,Lionsgate,Others,1/4/2013,2013,January,1,Friday
+Garfield,21727611,75369589,28.8,3094,Walt Disney,Major Studio,6/11/2004,2004,June,6,Friday
+Shaft,21714757,70334258,30.9,2337,Paramount Pictures,Major Studio,6/16/2000,2000,June,6,Friday
+Cats & Dogs,21707617,93385515,23.2,3040,Warner Bros.,Major Studio,7/4/2001,2001,July,7,Wednesday
+Eyes Wide Shut,21706163,55691208,39,2411,Warner Bros.,Major Studio,7/16/1999,1999,July,7,Friday
+Spy Game,21689125,62362560,34.8,2770,Universal Pictures,Major Studio,11/21/2001,2001,November,11,Wednesday
+Lights Out,21688103,67268835,32.2,2818,Warner Bros.,Major Studio,7/22/2016,2016,July,7,Friday
+RoboCop,21681430,58607007,37,3372,Sony Pictures,Major Studio,2/12/2014,2014,February,2,Wednesday
+My Best Friend's Wedding,21678377,127120029,17,2134,Sony Pictures,Major Studio,6/20/1997,1997,June,6,Friday
+Bumblebee,21654047,127195589,17,3550,Paramount Pictures,Major Studio,12/21/2018,2018,December,12,Friday
+Temptation: Confessions of a Marriage Counselor,21641679,51975354,41.6,2047,Lionsgate,Others,3/29/2013,2013,March,3,Friday
+London Has Fallen,21635601,62524260,34.6,3490,Universal Pictures,Major Studio,3/4/2016,2016,March,3,Friday
+Little Man,21613176,58645052,36.8,2533,Revolution Studios,Others,7/14/2006,2006,July,7,Friday
+When a Stranger Calls,21607203,47860214,45.2,2999,Sony Pictures,Major Studio,2/3/2006,2006,February,2,Friday
+Fool's Gold,21589295,70231041,30.7,3125,Warner Bros.,Major Studio,2/8/2008,2008,February,2,Friday
+Tammy,21577049,84525432,25.5,3465,Warner Bros.,Major Studio,7/2/2014,2014,July,7,Wednesday
+Christmas with the Kranks,21570867,73780539,29.2,3393,Revolution Studios,Others,11/24/2004,2004,November,11,Wednesday
+"You, Me and Dupree",21525560,75628110,28.5,3131,Universal Pictures,Major Studio,7/14/2006,2006,July,7,Friday
+Pete's Dragon,21514095,76233151,28.2,3702,Walt Disney,Major Studio,8/12/2016,2016,August,8,Friday
+American Reunion,21514080,57011521,37.7,3192,Universal Pictures,Major Studio,4/6/2012,2012,April,4,Friday
+Cruella,21496997,86103234,25,3892,Walt Disney,Major Studio,5/28/2021,2021,May,5,Friday
+The 40-Year-Old Virgin,21422815,109449237,19.6,2845,Universal Pictures,Major Studio,8/19/2005,2005,August,8,Friday
+The Stepford Wives,21406781,59484742,36,3057,Paramount Pictures,Major Studio,6/11/2004,2004,June,6,Friday
+Good Boys,21402605,83140306,25.7,3204,Universal Pictures,Major Studio,8/16/2019,2019,August,8,Friday
+Safe Haven,21401594,71349120,30,3223,Relativity Media,Others,2/14/2013,2013,February,2,Thursday
+The Forbidden Kingdom,21401121,52075270,41.1,3151,Lionsgate,Others,4/18/2008,2008,April,4,Friday
+The Hitman's Bodyguard,21384504,75468583,28.3,3377,Lionsgate,Others,8/18/2017,2017,August,8,Friday
+Angel Has Fallen,21380987,69030436,31,3286,Lionsgate,Others,8/23/2019,2019,August,8,Friday
+Ice Age: Collision Course,21373064,64063008,33.4,3992,Walt Disney,Major Studio,7/22/2016,2016,July,7,Friday
+Why Did I Get Married?,21353789,55204525,38.7,2011,Lionsgate,Others,10/12/2007,2007,October,10,Friday
+Turbo,21312625,83028128,25.7,3806,Walt Disney,Major Studio,7/17/2013,2013,July,7,Wednesday
+Storks,21311407,72679278,29.3,3922,Warner Bros.,Major Studio,9/23/2016,2016,September,9,Friday
+My Bloody Valentine,21241456,51545952,41.2,2534,Lionsgate,Others,1/16/2009,2009,January,1,Friday
+Happy Feet Two,21237068,64006466,33.2,3606,Warner Bros.,Major Studio,11/18/2011,2011,November,11,Friday
+Demon Slayer the Movie: Mugen Train,21234994,49505008,42.9,1614,FUNimation Entertainment,Others,4/23/2021,2021,April,4,Friday
+Boo 2! A Madea Halloween,21226953,47319572,44.9,2388,Lionsgate,Others,10/20/2017,2017,October,10,Friday
+Payback,21221526,81526121,26,2729,Paramount Pictures,Major Studio,2/5/1999,1999,February,2,Friday
+Four Brothers,21176925,74494381,28.4,2533,Paramount Pictures,Major Studio,8/12/2005,2005,August,8,Friday
+Waterworld,21171780,88246220,24,2268,Universal Pictures,Major Studio,7/28/1995,1995,July,7,Friday
+The Adjustment Bureau,21157730,62495645,33.8,2840,Universal Pictures,Major Studio,3/4/2011,2011,March,3,Friday
+Dragon Ball Super: Super Hero,21126919,38112140,55.4,3018,Crunchyroll,Others,8/19/2022,2022,August,8,Friday
+The Hitchhiker's Guide to the Galaxy,21103203,51085416,41.3,3133,Walt Disney,Major Studio,4/29/2005,2005,April,4,Friday
+Bride Wars,21058173,58715510,35.9,3226,Walt Disney,Major Studio,1/9/2009,2009,January,1,Friday
+13 Going on 30,21054283,57231747,36.8,3438,Revolution Studios,Others,4/23/2004,2004,April,4,Friday
+Resident Evil: Retribution,21052227,42345531,49.7,3012,Sony Pictures,Major Studio,9/14/2012,2012,September,9,Friday
+Project X,21051363,54731865,38.5,3055,Warner Bros.,Major Studio,3/2/2012,2012,March,3,Friday
+Law Abiding Citizen,21039502,73357727,28.7,2890,Overture Films,Others,10/16/2009,2009,October,10,Friday
+The Hunchback of Notre Dame,21037414,100138851,21,2778,Walt Disney,Major Studio,6/21/1996,1996,June,6,Friday
+Valkyrie,21027007,83077833,25.3,2711,MGM Amazon Prime,Others,12/25/2008,2008,December,12,Thursday
+The Forgotten,21022111,67133509,31.3,3104,Revolution Studios,Others,9/24/2004,2004,September,9,Friday
+Journey to the Center of the Earth,21018141,101704370,20.7,2811,Warner Bros.,Major Studio,7/11/2008,2008,July,7,Friday
+The Strangers,20997985,52597610,39.9,2466,Relativity Media,Others,5/30/2008,2008,May,5,Friday
+Insomnia,20930169,67355513,31.1,2610,Warner Bros.,Major Studio,5/24/2002,2002,May,5,Friday
+Scary Stories to Tell in the Dark,20915346,68947075,30.3,3135,Lionsgate,Others,8/9/2019,2019,August,8,Friday
+Remember the Titans,20905831,115654751,18.1,1865,Walt Disney,Major Studio,9/29/2000,2000,September,9,Friday
